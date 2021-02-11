@@ -1,0 +1,4 @@
+.nav-link:hover {
+	background-color: #DDDDDD;
+	transition: background-color 0.2 linear;
+}
