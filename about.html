@@ -42,10 +42,28 @@
 			</ul>
 		</div>
 	</nav>
+	<!--- End NavBar--->
 	
+	<ul class="nav justify-content-center align-items-center">
+		<li class="nav-item">
+			<a class="nav-link active" href="#" onclick="tab('aboutHome')">General</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="#" onclick="tab('programming')">Programming</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="#" onclick="tab('networking')">Networking</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="#" onclick="tab('systems')">Systems</a>
+		</li>
+	</ul>
 	<div class="d-flex justify-content-center">
-		<div class="w-75 p-3" style="background-color: #eee;">
+		<div class="w-75 p-3" style="background-color: #eee;" id="aboutHome">
 			<p>I'm a computer science student who loves electronics, music and computer in general.</p>
+			<p> Feel free to click on the buttons above to have more informations in the mentioned sector</p>
+		</div>
+		<div class="w-75 p-3" style="background-color: #eee;" id="programming">
 			<p>Over the (few) years, I've had the opportunity to work in the following languages :</p>
 			<ul>
 				<li>PHP</li>
@@ -57,22 +75,25 @@
 				<li>Python</li>
 			</ul>
 			<p>I've also had the chance to work with Google APIs such as ReCaptcha and CalenderApi and with Amazon AWS.</p>
-			
-			<br/>
+		</div>
+		<div class="w-75 p-3" style="background-color: #eee;" id="networking">
 			<p>During my apprenticeship, I had the opportunity to work with Cisco's hardware and take some networking courses.</p>
 			<p>I've also had the chance to work on Windows Server to set up a few DHCP, DNS and some Active Directories.</p>
 		</div>
+		<div class="w-75 p-3" style="background-color: #eee;" id="systems">
+			<p>WIP</p>
+		</div>
 	</div>
-	<div class="footer navbar-fixed-bottom">
+	<footer>
 		<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
 			Louis Richard - <span id="year"></span><br/>
 			<a class="text-dark" href="https://pages.github.com/">Hosted with GitHub Pages</a>
 		</div>
-	</div>
+	</footer>
 </body>
 
+<script src="js/about.js" charset="utf-8" type="text/javascript"></script>
 <script>
-    document.getElementById("year").innerHTML = new Date().getFullYear();
+	document.getElementById("year").innerHTML = new Date().getFullYear();
 </script>
-
 </html>
