@@ -12,8 +12,8 @@ For once, I decided to not use any kind of template and do everything from scrat
 Feel free to check it out at https://louisrichard.github.io/ 
 
 
-### Softwares Used :
-* Notepad++ - Making the site (didn't want to use anything under licence)
-* Firefox - Testing the site
-* cmder - To use with Git Bash
-* Steam - To procrastinate
+## Softwares Used
+*  Notepad++ - Making the site (didn't want to use anything under licence)
+*  Firefox - Testing the site
+*  cmder - To use with Git Bash
+*  Steam - To procrastinate
