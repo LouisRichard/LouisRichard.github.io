@@ -12,13 +12,13 @@
 			setTimeout(function () {
 				titleScroller(text.substr(1) + text.substr(0, 1));
 			}, 500);
-		}("Louis Richard - Home ~ "));
+		}("Louis Richard - Future Projects ~ "));
 	</script>
 </head>
 <body>
 	<br/>
 	<div class="d-flex justify-content-center">
-		<h1 class="display-1">Hello, World!</h1>
+		<h1 class="display-1">Future projects</h1>
 	</div>
 
 	<!--- NavBar --->
@@ -30,7 +30,7 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav mr-auto">
 				<li class="nav-item active">
-					<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+					<a class="nav-link" href="index.html">Home</span></a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="about.html">About me</a>
@@ -41,8 +41,8 @@
 				<li class="nav-item">
 					<a class="nav-link" href="pastExperience.html">Past Experiences</a>
 				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="workInProgress.html">Current Projects</a>
+        <li class="nav-item">
+					<a class="nav-link" href="#">Current Projects <span class="sr-only">(current)</span></a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://github.com/LouisRichard">GitHub</a>
@@ -53,24 +53,23 @@
 
 	<div class="d-flex justify-content-center">
 		<div class="w-75 p-3" style="background-color: #eee;">
-			<p>Hello, there!<br/>I'm Louis Richard. A computer science student at the <a href="www.cpnv.ch"></a> CPNV. </p>
-			<br/>
-			<p>I'm passionated by computer science, music and electronic</p>
-			<p>To find out more, check out the <a href="about.html">About me</a> page.</p>
-		</div>
-	</div>
+    <!-- CONTENT -->
 
-
-	<footer>
+    <p>Here are the projects I'm currently working on :</p>
+    <ul>
+        <li>Deployment of an NextCloud instance on a local network with OPNsense as a router/firewall as my TPI</li>
+        <li>Making my own guitar effects using electronic and tutorials I find online</li>
+        <li>Working with Arduino's and Raspberry Pi's to make my life easier at home</li>
+    </div>
+  </div>
+  <footer>
 		<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
 			Louis Richard - <span id="year"></span><br/>
 			<a class="text-dark" href="https://pages.github.com/">Hosted with GitHub Pages</a>
 		</div>
 	</footer>
 </body>
-
 <script>
     document.getElementById("year").innerHTML = new Date().getFullYear();
 </script>
-
 </html>
