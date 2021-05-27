@@ -6,21 +6,21 @@
 	<link rel="icon" type="image/png" href="img/favicon.png">
 	<link rel="stylesheet" href="style.css">
 	<!--- Title --->
-	<script type='text/javascript'> 
+	<script type='text/javascript'>
 		(function titleScroller(text) {
 			document.title = text;
 			setTimeout(function () {
 				titleScroller(text.substr(1) + text.substr(0, 1));
 			}, 500);
-		}("Louis Richard - Past Experiences ~ ")); 
-	</script>	
+		}("Louis Richard - Past Experiences ~ "));
+	</script>
 </head>
 <body>
 	<br/>
 	<div class="d-flex justify-content-center">
 		<h1 class="display-1">Past Experiences</h1>
 	</div>
-	
+
 	<!--- NavBar --->
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,13 +42,16 @@
 					<a class="nav-link" href="#">Past Experiences<span class="sr-only">(current)</span></a>
 				</li>
 				<li class="nav-item">
+					<a class="nav-link" href="workInProgress.html">Current Projects</a>
+				</li>
+				<li class="nav-item">
 					<a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://github.com/LouisRichard">GitHub</a>
 				</li>
 			</ul>
 		</div>
 	</nav>
-	
-	
+
+
 	<ul class="nav justify-content-center align-items-center">
 		<li class="nav-item">
 			<a class="nav-link active" href="#" onclick="tab('peHome')">Home</a>
@@ -66,15 +69,15 @@
 			<a class="nav-link" href="#" onclick="tab('languages')">Languages</a>
 		</li>
 	</ul>
-	
+
 	<div class="d-flex justify-content-center">
-	
+
 		<div class="w-75 p-3" style="background-color: #eee;" id="peHome">
 			<p>Here, I will list all my past experiences so you can have an idea of what I've already done</p>
-			
+
 			<p>To have more informations, feel free to click the above buttons</p>
 		</div>
-		
+
 		<div class="w-75 p-3" style="background-color: #eee;" id="apprenticeships">
 			<h4>Apprenticeships</h4>
 			<table class="table">
@@ -100,7 +103,7 @@
 			</table>
 		</div>
 
-		<div class="w-75 p-3" style="background-color: #eee;" id="internships">			
+		<div class="w-75 p-3" style="background-color: #eee;" id="internships">
 			<h4>Internships</h4>
 			<table class="table">
 				<thead>
@@ -129,12 +132,12 @@
 				</tbody>
 			</table>
 		</div>
-		
+
 		<div class="w-75 p-3" style="background-color: #eee;" id="jobs">
 			<h4>Jobs</h4>
 			<p>This section is a bit lacking at the moment. I'll be sure to update it whenever I get a job.</p>
 		</div>
-		
+
 		<div class="w-75 p-3" style="background-color: #eee;" id="languages">
 			<h4>Languages</h4>
 			<table class="table">
@@ -161,7 +164,7 @@
 			</table>
 		</div>
 	</div>
-	
+
 	<footer>
 		<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
 			Louis Richard - <span id="year"></span><br/>
