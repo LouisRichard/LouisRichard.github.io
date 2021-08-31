@@ -7,12 +7,16 @@
 
 This website is very much still a work in progress. 
 
-For once, I decided to not use any kind of template and do everything from scratch. That's why the design is so minimalistic. 
+I tried not to use a template but it ended up looking like shit so I ended up using one anyway. Oopsy~~. 
 
 Feel free to check it out at https://louisrichard.github.io/ 
 
 ## Softwares Used
-*  Notepad++ - Making the site (didn't want to use anything under licence)  
+*  Notepad++ - Making of the V1.0  
+*  JetBrain PhpSorm - Making of the V2.0  
+*  Adobe Photoshop CS6 - To modify the images when needed  
+*  Typora - To edit and read Markdown  
 *  Firefox - Testing the site  
 *  cmder - To use with Git Bash  
 *  Steam - To procrastinate  
+*  Spotify - To make my life easier
