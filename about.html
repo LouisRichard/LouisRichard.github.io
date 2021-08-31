@@ -1,168 +1,121 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
-	<meta charset="utf-8">
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
-	<link rel="icon" type="image/png" href="img/favicon.png">
-	<link rel="stylesheet" href="style.css">
-	<!--- Title --->
-	<script type='text/javascript'>
-		(function titleScroller(text) {
-			document.title = text;
-			setTimeout(function () {
-				titleScroller(text.substr(1) + text.substr(0, 1));
-			}, 500);
-		}("Louis Richard - About Me ~ "));
-	</script>
-</head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta content="description" name="description">
+  <meta name="google" content="notranslate" />
+  <meta content="Mashup templates have been developped by Orson.io team" name="author">
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-icon-180x180.png">
+  <link href="./assets/favicon.ico" rel="icon">
+
+    <title></title>
+    <!-- title -->
+    <script type='text/javascript'>
+        (function titleScroller(text) {
+            document.title = text;
+            setTimeout(function () {
+                titleScroller(text.substr(1) + text.substr(0, 1));
+            }, 500);
+        }("Louis Richard - About ~ "));
+    </script>
+
+<link href="./main.3da94fde.css" rel="stylesheet"></head>
 
 <body>
-	<br/>
-	<div class="d-flex justify-content-center">
-		<h1 class="display-1">About Me</h1>
-	</div>
 
-	<!--- NavBar --->
-	<nav class="navbar navbar-expand-lg navbar-light bg-light">
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
+<!-- Add your content of header -->
 
-		<div class="collapse navbar-collapse" id="navbarSupportedContent">
-			<ul class="navbar-nav mr-auto">
-				<li class="nav-item active">
-					<a class="nav-link" href="index.html">Home</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#">About Me <span class="sr-only">(current)</span></a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="futureProjects.html">Future Projects</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="pastExperience.html">Past Experiences</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="workInProgress.html">Current Projects</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" target="_blank" rel="noopener noreferrer" href="https://github.com/LouisRichard">GitHub</a>
-				</li>
-			</ul>
-		</div>
-	</nav>
-	<!--- End NavBar--->
+<header>
+  <nav class="navbar navbar-fixed-top navbar-default">
+    <div class="container">
+        <button type="button" class="navbar-toggle">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        
+      <nav class="navbar-fullscreen" id="navbar-middle">
+        <button type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <ul class="navbar-fullscreen-links">
+          <li><a href="./index.html" title="">Home</a></li>
+          <li><a href="projects/project.html" title="">Project</a></li>
+          <li><a href="./about.html" title="">About me</a></li>
+          <li><a href="./components.html" title="">Components</a></li>
+        </ul>
 
-	<ul class="nav justify-content-center align-items-center">
-		<li class="nav-item">
-			<a class="nav-link active" href="#" onclick="tab('aboutHome')">General</a>
-		</li>
-		<li class="nav-item">
-			<a class="nav-link" href="#" onclick="tab('programming')">Programming</a>
-		</li>
-		<li class="nav-item">
-			<a class="nav-link" href="#" onclick="tab('networking')">Networking</a>
-		</li>
-		<li class="nav-item">
-			<a class="nav-link" href="#" onclick="tab('systems')">Systems</a>
-		</li>
-	</ul>
-	<div class="d-flex justify-content-center">
-		<div class="w-75 p-3" style="background-color: #eee;" id="aboutHome">
-			<p>I'm Louis Richard. A student in computer science at the <a href="https://www.cpnv.ch/">CPNV</a>.</p>
-			<p>I've always had a passion for computers, electornic and this scope in general.</p>
+          <div class="footer-container">
+              <p><small>Louis Richard | Website created with <a href="http://www.mashup-template.com/" title="Create website with free html template">Mashup Template</a>/<a href="https://www.unsplash.com/" title="Beautiful Free Images">Unsplash</a> | Hosted with <a href="https://www.pages.github.com">GitHub Pages</a></small></p>
+              <p class="footer-share-icons">
+                  <a href="mailto:louis.richard@tutanota.com" class="fa-icon" title="">
+                      <i class="fa fa-envelope" aria-hidden="true"></i>
+                  </a>
+                  <a href="https://www.linkedin.com/in/louis-richard-8079b21a3/" class="fa-icon" title="">
+                      <i class="fa fa-linkedin" aria-hidden="true"></i>
+                  </a>
+                  <a href="https://www.github.com/LouisRichard/" class="fa-icon" title="">
+                      <i class="fa fa-github" aria-hidden="true"></i>
+                  </a>
+              </p>
 
-			<p>During my free time, I like to play games, make music, photography or solve <a href="https://www.root-me.org/en/Challenges/">Root-Me challenges</a>.</p>
+          </div>
 
-			<p>Sadly for recruiters, I keep my social media private. I do have Twitter, Instagram and other but they're all anonymous. You might find something if you look hard enough though.<p>
-			<p>I do have a <a href="https://www.linkedin.com/in/louis-richard-8079b21a3/">Linked In</a> but I don't know if I'm gonna keep it around.<br>
-			If you wish to contact me, feel free to send me an email at <a href="mailto:louis.richard@tutanota.com">louis.richard@tutanota.com</a>. I check this address every now and then.</p>
 
-			<p>To have more informations about my past experiences, feel free to click the above buttons</p>
-		</div>
-		<div class="w-75 p-3" style="background-color: #eee;" id="programming">
-			<p>Over the (few) years, I've had the opportunity to work in the following languages :</p>
-			<ul class="list-group">
-				<li class="list-group-item">PHP</li>
-				<li class="list-group-item">C#/.NET</li>
-				<li class="list-group-item">C</li>
-				<li class="list-group-item">JavaScript</li>
-				<li class="list-group-item">Python</li>
-				<li class="list-group-item">Powershell</li>
-				<li class="list-group-item">Batch</li>
-			</ul>
-			<p>I've also had the chance to work with Google APIs such as ReCaptcha and Calendar API and with Amazon AWS.</p>
-			<p>You can check out the latest public projects I worked on : </p>
-			<ul>
-				<li><a href="https://github.com/LouisRichard/GameLibrary">GameLibrary</a> - A simple Game Library written in C#</li>
-				<li><a href="https://bitbucket.org/NGY_CPNV/awsscheduler/src/master/">AWS Scheduler</a> - A PHP project designed to manage existing AWS Infra</li>
-			</ul>
-		</div>
-		<div class="w-75 p-3" style="background-color: #eee;" id="networking">
-			<p>During my apprenticeship, I had the opportunity to work with Cisco's hardware and take some networking courses at the CPNV (Cisco CCNA).</p>
-			<p>I've had the opportunity to work with routers, switches and some access-points.</p>
-		</div>
-		<div class="w-75 p-3" style="background-color: #eee;" id="systems">
-			<p>Over the (few) years, I've had the opportunity to work with multiple environement and do many things</p>
-			<p>Here's a list:</p>
+      </nav> 
+    
+    </div>
+  </nav>
+</header>
+<div class="section-container content-container">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="col-md-6">
+                    <img src="./assets/images/img-profil.jpg" class="img-responsive" alt="">
+                    <p>Photo by Liam Trancoso - October 2020</p>
+                </div>
+                <div class="col-md-6">
+                    <h1 class="h2">Louis Richard</h1>
+                    <p>I'm Louis Richard. A student in computer science at the <a href="https://www.cpnv.ch/">CPNV</a>.</p>
+                    <p>I've always had a passion for computers, electornic and this scope in general.</p>
 
-			<h4>Operating systems</h4>
-			<table class="table">
-				<thead>
-					<tr>
-						<th scope="col">Environement</th>
-						<th scope="col">Use</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Windows XP/7/8/8.1/10</td>
-						<td>Worstations</td>
-					</tr>
-					<tr>
-						<td>Ubuntu</td>
-						<td>Workstation</td>
-					</tr>
-					<tr>
-						<td>Debian 9</td>
-						<td>Apache server/general use</td>
-					</tr>
-					<tr>
-						<td>Raspbian</td>
-						<td>Desktop environement, DomoticZ, RetroPi and FM transmitter</td>
-					</tr>
-					<tr>
-						<td>Parrot OS</td>
-						<td>Workstation</td>
-					</tr>
-					<tr>
-						<td>OSx</td>
-						<td>Workstation</td>
-					</tr>
-					<tr>
-						<td>Windows Server 2008 R2 / 2012 R2</td>
-						<td>DHCP/DNS/Active Directory/File server/Print server</td>
-					</tr>
-				</tbody>
-			</table>
+                    <p>During my free time, I like to play games, make music, photography or solve <a href="./projects/project.html#challenges">challenges</a>.</p>
 
-			<h4>Databases</h4>
-			<ul>
-				<li>MySQL/MariaDB</li>
-				<li>Miscrosoft SQL Server / TSQL</li>
-			</ul>
-		</div>
-	</div>
-	<footer>
-		<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-			Louis Richard - <span id="year"></span><br/>
-			<a class="text-dark" href="https://pages.github.com/">Hosted with GitHub Pages</a>
-		</div>
-	</footer>
-</body>
+                    <p>Sadly for recruiters, I keep my social media private. I do have Twitter, Instagram and other but they're all anonymous. You might find something if you look hard enough though.<p>
+                    <p>I do have a <a href="https://www.linkedin.com/in/louis-richard-8079b21a3/">Linked In</a> but I don't know if I'm gonna keep it around.<br>
+                        If you wish to contact me, feel free to send me a message through the means below.</p>
 
-<script src="js/about.js" charset="utf-8" type="text/javascript"></script>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="mailto:louis.richard@tutanota.com" title="" class="link-like-text">email</a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/louis-richard-8079b21a3/" title="" class="link-like-text">linkedin</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
 <script>
-	document.getElementById("year").innerHTML = new Date().getFullYear();
+    document.addEventListener("DOMContentLoaded", function (event) {
+      navbarToggleSidebar();
+      closeMenuBeforeGoingToPage();
+      navActivePage();
+    });
 </script>
+ <script type="text/javascript" src="./main.4c6e144e.js"></script></body>
+
 </html>
