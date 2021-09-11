@@ -33,7 +33,7 @@ Feel free to check it out at https://louisrichard.github.io/
     * [Amazon AWS](https://aws.amazon.com/)  
     * [CodeAbbey](https://www.codeabbey.com/)  
     * [HackerRank](https://www.hackerrank.com/)  
-    * [Root-Me](https://www.root-me.org/)
-    * [CanStockPhoto](https://www.canstockphoto.fr/)
-    * [GitHub](https://www.github.com/)
-    * Liam Trancoso  <!-- Will add a link if asked to -->
+    * [Root-Me](https://www.root-me.org/)  
+    * [CanStockPhoto](https://www.canstockphoto.fr/)  
+    * [GitHub](https://www.github.com/)  
+    * [Liam Trancoso](https://www.instagram.com/liamtrxn.exe/)  
