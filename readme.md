@@ -21,3 +21,19 @@ Feel free to check it out at https://louisrichard.github.io/
 *  cmder - To use with Git Bash  
 *  Steam - To procrastinate  
 *  Spotify - To make my life easier
+****
+
+## Credits
+* Template from [Mashup Template](http://www.mashup-template.com/)  
+* Hosted with [Github Pages](https://www.pages.github.com/)  
+* Developer - [Louis Richard](https://www.github.com/louisrichard/) 
+* Images - [Jonas Hautier](https://www.github.com/jonashau/) and [Louis Richard](https://www.github.com/louisrichard/)  
+  * Sources images :  
+    * [IconArchive](https://iconarchive.com/)  
+    * [Amazon AWS](https://aws.amazon.com/)  
+    * [CodeAbbey](https://www.codeabbey.com/)  
+    * [HackerRank](https://www.hackerrank.com/)  
+    * [Root-Me](https://www.root-me.org/)
+    * [CanStockPhoto](https://www.canstockphoto.fr/)
+    * [GitHub](https://www.github.com/)
+    * Liam Trancoso  <!-- Will add a link if asked to -->
