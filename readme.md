@@ -1,8 +1,8 @@
 # LouisRichard.GitHub.io
 [![License](https://img.shields.io/badge/Licence-BSD--3-informational?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
-[![Generic badge](https://img.shields.io/badge/Status-WiP-red.svg?style=for-the-badge)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-WiP-red.svg?style=for-the-badge)](#)
 [![Generic badge](https://img.shields.io/badge/Website-Up-green.svg?style=for-the-badge)](https://louisrichard.github.io/)
-![GitHub last commit](https://img.shields.io/github/last-commit/LouisRichard/LouisRichard.github.io?style=for-the-badge)
+[![GitHub last commit](https://img.shields.io/github/last-commit/LouisRichard/LouisRichard.github.io?style=for-the-badge)](#)
 
 ****
 
