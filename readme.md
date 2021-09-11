@@ -1,9 +1,10 @@
-# Welcome
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) 
-[![Generic badge](https://img.shields.io/badge/Status-WiP-red.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Website-Up-green.svg)](https://louisrichard.github.io/)
-![GitHub last commit](https://img.shields.io/github/last-commit/LouisRichard/LouisRichard.github.io)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b27e28f835ec4284b318da6d6ecc3563)](https://www.codacy.com/gh/LouisRichard/LouisRichard.github.io/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LouisRichard/LouisRichard.github.io&amp;utm_campaign=Badge_Grade)
+# LouisRichard.GitHub.io
+[![License](https://img.shields.io/badge/Licence-BSD--3-informational?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
+[![Generic badge](https://img.shields.io/badge/Status-WiP-red.svg?style=for-the-badge)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Website-Up-green.svg?style=for-the-badge)](https://louisrichard.github.io/)
+![GitHub last commit](https://img.shields.io/github/last-commit/LouisRichard/LouisRichard.github.io?style=for-the-badge)
+
+****
 
 This website is very much still a work in progress. 
 
