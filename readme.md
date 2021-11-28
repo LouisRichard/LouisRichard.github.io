@@ -6,7 +6,10 @@
 
 ****
 
-This website is very much still a work in progress. 
+This website is very much still a work in progress.  
+TODO :
+* Spellcheck  
+* Add projects as they come
 
 I tried not to use a template but it ended up looking like shit so I ended up using one anyway. Oopsy~~. 
 
