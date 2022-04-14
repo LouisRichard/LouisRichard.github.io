@@ -30,7 +30,7 @@ Feel free to check it out at https://louisrichard.github.io/
 * Template from [Mashup Template](http://www.mashup-template.com/)  
 * Hosted with [Github Pages](https://www.pages.github.com/)  
 * Developer - [Louis Richard](https://www.github.com/louisrichard/) 
-* Images - [Jonas Hautier](https://www.github.com/jonashau/) and [Louis Richard](https://www.github.com/louisrichard/)  
+* Images - [Liam Trancoso](https://www.instagram.com/liamtrxn.exe/), [Jonas Hautier](https://www.github.com/jonashau/) and [Louis Richard](https://www.github.com/louisrichard/)  
   * Sources images :  
     * [IconArchive](https://iconarchive.com/)  
     * [Amazon AWS](https://aws.amazon.com/)  
@@ -38,5 +38,4 @@ Feel free to check it out at https://louisrichard.github.io/
     * [HackerRank](https://www.hackerrank.com/)  
     * [Root-Me](https://www.root-me.org/)  
     * [CanStockPhoto](https://www.canstockphoto.fr/)  
-    * [GitHub](https://www.github.com/)  
-    * [Liam Trancoso](https://www.instagram.com/liamtrxn.exe/)  
+    * [GitHub](https://www.github.com/)   
