@@ -101,7 +101,7 @@
                   <li><a href="projects.php?p=numericdice">Numeric Dice</a></li>
                   <li><a href="#">Thinkpad X60 repairs</a></li>
                   <li><a href="#">MacBook Pro 1502 repairs</a></li>
-                  <li><a href="#">Dell laptops repairs</a></li>
+                  <li><a href="projects.php?p=dellupre">Dell laptops upgrades and repairs</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="#"><span>System</span> <i class="bi bi-chevron-right"></i></a>

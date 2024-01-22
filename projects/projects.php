@@ -41,6 +41,9 @@ if (isset($_GET['p'])) {
         case 'tpinews':
             require_once "view/tpinews.php";
             break;
+        case 'dellupre':
+            require_once "view/dellupgrep.php";
+            break;
         default:
             header('location: ../error.html');
     }
