@@ -38,7 +38,9 @@ if (isset($_GET['p'])) {
         case 'dwm':
             require_once "view/dwm.php";
             break;
-
+        case 'tpinews':
+            require_once "view/tpinews.php";
+            break;
         default:
             header('location: ../error.html');
     }

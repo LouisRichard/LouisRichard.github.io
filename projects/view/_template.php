@@ -116,7 +116,7 @@
               <li class="dropdown"><a href="#"><span>Web</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="projects.php?p=githubio">richard486.ch</a></li>
-                  <li><a href="#">TPI - News Website</a></li>
+                  <li><a href="projects.php?p=tpinews">TPI - News Website</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Challenges</span> <i class="bi bi-chevron-right"></i></a>
