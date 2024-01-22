@@ -54,7 +54,7 @@ ob_start();
           <p>
           Yet another website I like to go to to challenge myself and learn new tricks.<br/>
           You'll see here that I mainly use PHP to solve the challenges. That is because PHP is a language I feel really confortable with. In web application not so much but I really like the scripting abilities of this language.<br/>
-          Some of the challenges have been resolved as a team of two with my classmate Jonas Hautier. We both still try to do them by ourself.
+          Some of the challenges have been resolved as a team of two with my classmate <a href="https://github.com/jonashau">Jonas Hautier</a>. We both still try to do them by ourself.
           <br/><br/>
           No solution will be provided unless asked for.
           </p>
