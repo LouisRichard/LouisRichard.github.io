@@ -49,7 +49,7 @@ ob_start();
           <h2>My modified version of DWM</h2>
           <p>
           This project was made when I took interest into WM to replace DE to get the most out of old laptops. <br/>
-          My fork include the following modifications :
+          My fork includes the following modifications :
             <ul>
               <li>Using a different system font</li>
               <li>Modifying the icons for the <i>"virtual desktops"</i></li>
