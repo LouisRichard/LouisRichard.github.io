@@ -32,10 +32,11 @@ Feel free to check it out at https://louisrichard.github.io/ or https://richard4
 ****
 
 ## Credits
-* Template from [Mashup Template](http://www.mashup-template.com/)  
+* Template from [BootstrapMade](https://bootstrapmade.com/)  
 * Hosted with [Github Pages](https://www.pages.github.com/)  
+* Also Hosted by [Infomaniak](https://infomaniak.com)  
 * Developer - [Louis Richard](https://www.github.com/louisrichard/) 
-* Images - [Liam Trancoso](https://www.instagram.com/liamtrxn.exe/),[Ludovic Richard](https://github.com/ludovicrichard2002), [Jonas Hautier](https://www.github.com/jonashau/) and [Louis Richard](https://www.github.com/louisrichard/)  
+* Images - [Liam Trancoso](https://www.instagram.com/liamtrxn.exe/), [Ludovic Richard](https://github.com/ludovicrichard2002), [Jonas Hautier](https://www.github.com/jonashau/) and [Louis Richard](https://www.github.com/louisrichard/)  
   * Sources images :  
     * [IconArchive](https://iconarchive.com/)  
     * [Amazon AWS](https://aws.amazon.com/)  
