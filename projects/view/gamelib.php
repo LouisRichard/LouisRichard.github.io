@@ -7,6 +7,7 @@ ob_start();
 
     <ol>
       <li><a href="../../index.html">Home</a></li>
+      <li>projects</li>
       <li>Game Library</li>
     </ol>
     <h2>Game Library</h2>
