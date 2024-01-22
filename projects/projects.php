@@ -29,6 +29,9 @@ if (isset($_GET['p'])) {
         case 'codeabbey':
             require_once "view/codeabbey.php";
             break;
+        case 'hackerrank':
+            require_once "view/hackerrank.php";
+            break;
         default:
             header('location: ../error.html');
     }
