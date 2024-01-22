@@ -50,7 +50,7 @@ ob_start();
           Yet another website I like to go to to challenge myself and learn new tricks.<br/>
           This one is a bit more difficult than the other ones. It's more oriented toward hacking and good practices in the real world (what not to do).<br/>
           I'm forced to admit that I haven't been there in quite some time, though...<br/>
-          Some of the challenges have been resolved as a team of two with my classmate <a href="https://github.com/jonashau/">Jonas Hautier</a>. We both still try to do them by ourself.
+          Some of the challenges have been resolved as a team of two with my classmate <a href="https://github.com/jonashau/">Jonas Hautier</a>. We both still try to do them by ourselves.
           <br/><br/>
           No solution will be provided unless asked for.
           </p>

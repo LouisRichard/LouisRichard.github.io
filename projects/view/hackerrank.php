@@ -49,7 +49,7 @@ ob_start();
           <p>
           A nice thing to do when you have time to kill is to try and improve your performances in your domain.<br/>
           That's basically what I'm doing here. I like to practice and learn on HackerRank. I mainly used it to revise SQL and learn a bit of ruby. I still have a lot of things to explore there.<br/>
-          Some of the challenges have been resolved as a team of two with my classmate <a href="https://github.com/jonashau/">Jonas Hautier</a>. We both still try to do them by ourself.
+          Some of the challenges have been resolved as a team of two with my classmate <a href="https://github.com/jonashau/">Jonas Hautier</a>. We both still try to do them by ourselves.
           <br/><br/>
           No solution will be provided unless asked for.
           </p>
