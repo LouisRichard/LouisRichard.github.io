@@ -45,7 +45,7 @@ ob_start();
             <li><strong>Category</strong>: Challenges</li>
             <li><strong>Client</strong>: Me</li>
             <li><strong>Project date</strong>: 2019 - Today</li>
-            <li><strong>Public profile</strong>: <a href="https://www.codeabbey.com/index/user_profile/louis-richard">Louis Richard on CoadeAbbey</a>
+            <li><strong>Public profile</strong>: <a href="https://www.codeabbey.com/index/user_profile/louis-richard">Louis Richard on CodeAbbey</a>
             <li><img src="https://www.codeabbey.com/index/user_banner/louis-richard.png"></li>
           </ul>
         </div>
