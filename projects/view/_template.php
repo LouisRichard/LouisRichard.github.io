@@ -85,56 +85,45 @@
             <ul>
               <li class="dropdown"><a href="#"><span>Ongoing</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="#">Thinkpad X60 repairs</a></li>
+                  <li><a href="#">MacBook Pro 1502 repairs</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Apps</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="projects.php?p=gamelib">Game Library</a></li>
+                  <li><a href="projects.php?p=awsscheduler">AWS Scheduler</a></li>
+                  <li><a href="#">DWM</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Hardware</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="projects.php?p=numericdice">Numeric Dice</a></li>
+                  <li><a href="#">Thinkpad X60 repairs</a></li>
+                  <li><a href="#">MacBook Pro 1502 repairs</a></li>
+                  <li><a href="#">Dell laptops repairs</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="#"><span>System</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="#">TrueNas Setup</a></li>
+                  <li><a href="#">Linux Daily Driver</a></li>
+                  <li><a href="#">Windows Server Setup</a></li>
+                  <li><a href="#">DomoticZ</a></li>
+                  <li><a href="#">Apache local server</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Web</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="projects.php?p=githubio">richard486.ch</a></li>
+                  <li><a href="#">TPI - News Website</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Challenges</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="projects.php?p=codeabbey">CodeAbbey</a></li>
+                  <li><a href="projects.php?p=hackerrank">HackerRank</a></li>
+                  <li><a href="projects.php?p=rootme">Root-Me</a></li>
                 </ul>
               </li>
             </ul>
