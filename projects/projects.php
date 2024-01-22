@@ -35,6 +35,10 @@ if (isset($_GET['p'])) {
         case 'rootme':
             require_once "view/rootme.php";
             break;
+        case 'dwm':
+            require_once "view/dwm.php";
+            break;
+
         default:
             header('location: ../error.html');
     }

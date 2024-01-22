@@ -93,7 +93,7 @@
                 <ul>
                   <li><a href="projects.php?p=gamelib">Game Library</a></li>
                   <li><a href="projects.php?p=awsscheduler">AWS Scheduler</a></li>
-                  <li><a href="#">DWM</a></li>
+                  <li><a href="projects.php?p=dwm">DWM</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Hardware</span> <i class="bi bi-chevron-right"></i></a>
