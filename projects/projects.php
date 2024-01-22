@@ -26,6 +26,9 @@ if (isset($_GET['p'])) {
         case 'numericdice':
             require_once "view/numericdice.php";
             break;
+        case 'codeabbey':
+            require_once "view/codeabbey.php";
+            break;
         default:
             header('location: ../error.html');
     }
