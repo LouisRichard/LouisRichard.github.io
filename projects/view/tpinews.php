@@ -63,7 +63,7 @@ ob_start();
             This website was made in the context of my computer science formation at the <a href="https://cpnv.ch">CPNV</a>.<br/>
             It's a pretty basic website using PHP and a MariaDB database to store users and articles.<br/><br/>
             The website was unfortunately never finished. I realised quite late that I was lacking both time and skills to make the website what I wanted it to be.</br>
-            (the picture shown were taken during testing of the project)
+            (the picture shown were made during the conception of the project)
             I have no plan at this time to come back to it.
           </p>
         </div>
