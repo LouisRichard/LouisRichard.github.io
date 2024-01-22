@@ -23,6 +23,9 @@ if (isset($_GET['p'])) {
         case 'awsscheduler':
             require_once "view/awsscheduler.php";
             break;
+        case 'numericdice':
+            require_once "view/numericdice.php";
+            break;
         default:
             header('location: ../error.html');
     }
