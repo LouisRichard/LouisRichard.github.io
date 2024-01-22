@@ -16,9 +16,13 @@ if (isset($_GET['p'])) {
     switch ($project) {
         case 'gamelib':
             require_once "view/gamelib.php";
+            break;
+        case 'githubio':
+            require_once "view/githubio.php";
+            break;
         default:
             header('location: ../error.html');
     }
 } else {
-    header('location: error.html');
+    header('location: ../error.html');
 }
