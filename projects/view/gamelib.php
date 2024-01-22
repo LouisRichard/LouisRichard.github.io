@@ -47,7 +47,7 @@ ob_start();
         <div class="portfolio-info">
           <h3>Project information</h3>
           <ul>
-            <li><strong>Category</strong>: App design</li>
+            <li><strong>Category</strong>: App</li>
             <li><strong>Collaborator</strong>: <a href="https://github.com/JonasHau">Jonas Hautier</a>
             <li><strong>Client</strong>: <a href="https://cpnv.ch">CPNV</a></li>
             <li><strong>Project date</strong>: FEB, 2020</li>

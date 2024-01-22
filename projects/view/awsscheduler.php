@@ -38,7 +38,7 @@ ob_start();
         <div class="portfolio-info">
           <h3>Project information</h3>
           <ul>
-            <li><strong>Category</strong>: Web</li>
+            <li><strong>Category</strong>: App</li>
             <li><strong>Client</strong>: <a href="https://bitbucket.org/NGY_CPNV/">Nicolas Glassey</a> / <a href="https://cpnv.ch">CPNV</a></li>
             <li><strong>Collaborators</strong>: <a href="https://bitbucket.org/NGY_CPNV/">Nicolas Glassey</a>, <a href="https://bitbucket.org/Naima28">Naima Fahmy Hanna</a>, <a href="https://bitbucket.org/AltinZILI/">Altin Zili</a>
             <li><strong>Project date</strong>: FEB, 2020 - JUN, 2021</li>
