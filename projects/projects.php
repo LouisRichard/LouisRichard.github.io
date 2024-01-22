@@ -32,6 +32,9 @@ if (isset($_GET['p'])) {
         case 'hackerrank':
             require_once "view/hackerrank.php";
             break;
+        case 'rootme':
+            require_once "view/rootme.php";
+            break;
         default:
             header('location: ../error.html');
     }
