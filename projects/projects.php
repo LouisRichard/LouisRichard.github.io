@@ -20,6 +20,9 @@ if (isset($_GET['p'])) {
         case 'githubio':
             require_once "view/githubio.php";
             break;
+        case 'awsscheduler':
+            require_once "view/awsscheduler.php";
+            break;
         default:
             header('location: ../error.html');
     }
