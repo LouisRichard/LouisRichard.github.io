@@ -85,7 +85,6 @@
             <ul>
               <li class="dropdown"><a href="projects.php?p=cat_ongoing"><span>Ongoing</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Thinkpad X60 repairs</a></li>
                   <li><a href="#">MacBook Pro 1502 repairs</a></li>
                 </ul>
               </li>
@@ -99,14 +98,13 @@
               <li class="dropdown"><a href="projects.php?p=cat_hardware"><span>Hardware</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="projects.php?p=numericdice">Numeric Dice</a></li>
-                  <li><a href="#">Thinkpad X60 repairs</a></li>
                   <li><a href="#">MacBook Pro 1502 repairs</a></li>
                   <li><a href="projects.php?p=dellupre">Dell laptops upgrades and repairs</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="projects.php?p=cat_system"><span>System</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">TrueNas Setup</a></li>
+                  <li><a href="projects.php?p=truenassetup">TrueNas Setup</a></li>
                   <li><a href="#">Linux Daily Driver</a></li>
                   <li><a href="#">Windows Server Setup</a></li>
                   <li><a href="#">DomoticZ</a></li>
