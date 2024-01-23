@@ -45,10 +45,10 @@ if (isset($_GET['p'])) {
         case 'dellupre':
             require_once "view/dellupgrep.php";
             break;
-            
+
         // Project categories
         case 'cat_ongoing':
-            require_once "view/ongoing.php";
+            require_once "view/_ongoing.php";
             break;
         default:
             require_once "view/_categories.php";
