@@ -73,7 +73,7 @@ ob_start();
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=githubio">
+            <a href="projects.php?p=cat_web">
               <img src="../assets/img/portfolio/_categories/web.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web</h4>
