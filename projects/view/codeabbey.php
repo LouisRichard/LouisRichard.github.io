@@ -7,8 +7,8 @@ ob_start();
 
     <ol>
       <li><a href="../../index.html">Home</a></li>
-      <li>projects</li>
-      <li>challenges</li>
+      <li><a href="projects.php">projects</a></li>
+      <li><a href="projects.php?p=cat_challenges">challenges</a></li>
       <li>codeabbey<li>
     </ol>
     <h2>CodeAbbey</h2>

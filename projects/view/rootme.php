@@ -7,11 +7,11 @@ ob_start();
 
     <ol>
       <li><a href="../../index.html">Home</a></li>
-      <li>projects</li>
-      <li>challenges</li>
-      <li>hackerrank<li>
+      <li><a href="projects.php">projects</a></li>
+      <li><a href="projects.php?p=cat_challenges">challenges</a></li>
+      <li>rootme<li>
     </ol>
-    <h2>HackerRank</h2>
+    <h2>Root-Me</h2>
 
   </div>
 </section><!-- End Breadcrumbs -->

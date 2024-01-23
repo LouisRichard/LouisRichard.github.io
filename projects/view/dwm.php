@@ -7,7 +7,7 @@ ob_start();
 
     <ol>
       <li><a href="../../index.html">Home</a></li>
-      <li>projects</li>
+      <li><a href="projects.php">projects</a></li>
       <li>app</li>
       <li>dwm</li>
     </ol>
