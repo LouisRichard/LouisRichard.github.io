@@ -45,7 +45,9 @@ if (isset($_GET['p'])) {
         case 'dellupre':
             require_once "view/dellupgrep.php";
             break;
-
+        case 'truenassetup':
+            require_once "view/truenas.php";
+            break;
         // Project categories
         case 'cat_ongoing':
             require_once "view/_ongoing.php";

@@ -38,7 +38,7 @@ ob_start();
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="150">
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="projects.php?p=gamelib">
+            <a href="projects.php?p=truenas">
               <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>TrueNas setup</h4>
@@ -47,7 +47,7 @@ ob_start();
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=awsscheduler">
+            <a href="projects.php?p=linuxdaily">
               <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Linux Daily Driver</h4>
@@ -56,7 +56,7 @@ ob_start();
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=dwm">
+            <a href="projects.php?p=winserver">
               <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Windows Server setup</h4>
@@ -65,7 +65,7 @@ ob_start();
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=dwm">
+            <a href="projects.php?p=domoticz">
               <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>DomoticZ</h4>
@@ -74,7 +74,7 @@ ob_start();
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=dwm">
+            <a href="projects.php?p=apachelocal">
               <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Apache Local server</h4>
