@@ -14,6 +14,7 @@ if (isset($_GET['p'])) {
     $project = $_GET['p'];
 
     switch ($project) {
+        // Individual projects
         case 'gamelib':
             require_once "view/gamelib.php";
             break;
@@ -44,9 +45,14 @@ if (isset($_GET['p'])) {
         case 'dellupre':
             require_once "view/dellupgrep.php";
             break;
+            
+        // Project categories
+        case 'cat_ongoing':
+            require_once "view/ongoing.php";
+            break;
         default:
-            header('location: ../error.html');
+            require_once "view/_categories.php";
     }
 } else {
-    header('location: ../error.html');
+    require_once "view/_categories.php";
 }
