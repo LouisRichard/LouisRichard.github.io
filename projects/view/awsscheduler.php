@@ -8,7 +8,7 @@ ob_start();
     <ol>
       <li><a href="../../index.html">Home</a></li>
       <li><a href="projects.php">projects</a></li>
-      <li>app</li>
+      <li><a href="projects.php?p=cat_apps">apps</a></li>
       <li>aws scheduler</li>
     </ol>
     <h2>AWS Scheduler</h2>

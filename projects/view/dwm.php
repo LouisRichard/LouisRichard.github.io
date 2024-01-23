@@ -8,8 +8,7 @@ ob_start();
     <ol>
       <li><a href="../../index.html">Home</a></li>
       <li><a href="projects.php">projects</a></li>
-      <li>app</li>
-      <li>dwm</li>
+      <li><a href="projects.php?p=cat_apps">apps</a></li>
     </ol>
     <h2>Dynamic Window Manager</h2>
 

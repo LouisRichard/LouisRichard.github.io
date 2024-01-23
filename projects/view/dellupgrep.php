@@ -8,7 +8,7 @@ ob_start();
     <ol>
       <li><a href="../../index.html">Home</a></li>
       <li><a href="projects.php">projects</a></li>
-      <li>hardware</li>
+      <li><a href="projects.php?p=cat_hardware">hardware</a></li>
       <li>dell upgrades & repairs</li>
     </ol>
     <h2>Upgrades and Repairs of my Dell laptops</h2>

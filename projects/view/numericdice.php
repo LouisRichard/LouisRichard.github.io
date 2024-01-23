@@ -8,7 +8,7 @@ ob_start();
     <ol>
       <li><a href="../../index.html">Home</a></li>
       <li><a href="projects.php">projects</a></li>
-      <li>hardware</li>
+      <li><a href="projects.php?p=cat_hardware">hardware</a></li>
       <li>numeric dice<li>
     </ol>
     <h2>Numeric Dice</h2>
