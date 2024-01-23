@@ -19,8 +19,8 @@ ob_start();
     <div class="container">
 
       <ol>
-        <li><a href="index.html">Home</a></li>
-        <li>Projects</li>
+        <li><a href="../index.html">Home</a></li>
+        <li>projects</li>
       </ol>
       <h2>All my projects</h2>
 
@@ -46,7 +46,7 @@ ob_start();
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=githubio">
+            <a href="projects.php?p=cat_apps">
               <img src="../assets/img/portfolio/_categories/apps.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App</h4>

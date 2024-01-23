@@ -21,9 +21,9 @@ ob_start();
       <ol>
         <li><a href="../index.html">Home</a></li>
         <li><a href="projects.php">projects</a></li>
-        <li>ongoing</li>
+        <li>apps</li>
       </ol>
-      <h2>Ongoing projects</h2>
+      <h2>Applications</h2>
 
     </div>
   </section><!-- End Breadcrumbs -->
@@ -31,26 +31,34 @@ ob_start();
   <section class="inner-page">
     <div class="container">
       <div class="section-title">
-        <span>Ongoing</span>
-        <h2>Ongoing</h2>
-        <p>Projects I'm currently working on</p>
+        <span>Applications</span>
+        <h2>Applications</h2>
+        <p></p>
       </div>
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="150">
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="projects.php?p=x60repairs">
-              <img src="../assets/img/portfolio/hardware/x60repair.jpg" class="img-fluid" alt="">
+            <a href="projects.php?p=gamelib">
+              <img src="../assets/img/portfolio/app/gamelibrary.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Thinkpad X60 repairs</h4>
+                <h4>Game Library</h4>
               </div>
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=mbprepairs">
-              <img src="../assets/img/portfolio/hardware/mbprepairs.jpg" class="img-fluid" alt="">
+            <a href="projects.php?p=awsscheduler">
+              <img src="../assets/img/portfolio/app/awsscheduler.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>MacBook Pro 1502 repairs</h4>
+                <h4>AWS Scheduler</h4>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <a href="projects.php?p=dwm">
+              <img src="../assets/img/portfolio/app/dwmlogo.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>DWM</h4>
               </div>
             </a>
           </div>

@@ -50,6 +50,9 @@ if (isset($_GET['p'])) {
         case 'cat_ongoing':
             require_once "view/_ongoing.php";
             break;
+        case 'cat_apps':
+            require_once "view/_app.php";
+            break;
         default:
             require_once "view/_categories.php";
     }
