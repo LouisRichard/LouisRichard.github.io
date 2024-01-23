@@ -59,6 +59,12 @@ if (isset($_GET['p'])) {
         case 'cat_web':
             require_once "view/_web.php";
             break;
+        case 'cat_system':
+            require_once "view/_system.php";
+            break;
+        case 'cat_challenges':
+            require_once "view/_challenges.php";
+            break;
         default:
             require_once "view/_categories.php";
     }

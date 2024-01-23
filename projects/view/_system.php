@@ -20,9 +20,10 @@ ob_start();
 
       <ol>
         <li><a href="../index.html">Home</a></li>
-        <li>projects</li>
+        <li><a href="projects.php">projects</a></li>
+        <li>system</li>
       </ol>
-      <h2>All my projects</h2>
+      <h2>System projects</h2>
 
     </div>
   </section><!-- End Breadcrumbs -->
@@ -30,65 +31,57 @@ ob_start();
   <section class="inner-page">
     <div class="container">
       <div class="section-title">
-        <span>Projects</span>
-        <h2>Projects</h2>
-        <p>Here are the different project categories</p>
+        <span>Systems</span>
+        <h2>Systems</h2>
+        <p></p>
       </div>
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="150">
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="projects.php?p=cat_ongoing">
-              <img src="../assets/img/portfolio/_categories/ongoing.jpg" class="img-fluid" alt="">
+            <a href="projects.php?p=gamelib">
+              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Ongoing projects</h4>
+                <h4>TrueNas setup</h4>
               </div>
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=cat_apps">
-              <img src="../assets/img/portfolio/_categories/apps.jpg" class="img-fluid" alt="">
+            <a href="projects.php?p=awsscheduler">
+              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App</h4>
+                <h4>Linux Daily Driver</h4>
               </div>
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=cat_hardware">
-              <img src="../assets/img/portfolio/_categories/hardware.jpg" class="img-fluid" alt="">
+            <a href="projects.php?p=dwm">
+              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Hardware</h4>
+                <h4>Windows Server setup</h4>
               </div>
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=cat_system">
-              <img src="../assets/img/portfolio/_categories/system.jpg" class="img-fluid" alt="">
+            <a href="projects.php?p=dwm">
+              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>System</h4>
+                <h4>DomoticZ</h4>
               </div>
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=cat_web">
-              <img src="../assets/img/portfolio/_categories/web.jpg" class="img-fluid" alt="">
+            <a href="projects.php?p=dwm">
+              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web</h4>
+                <h4>Apache Local server</h4>
               </div>
             </a>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="projects.php?p=cat_challenges">
-              <img src="../assets/img/portfolio/_categories/challenges.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Challenges</h4>
-              </div>
-            </a>
-          </div>
         </div>
       </div>
     </div>
