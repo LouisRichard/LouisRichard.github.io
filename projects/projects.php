@@ -53,6 +53,9 @@ if (isset($_GET['p'])) {
         case 'cat_apps':
             require_once "view/_app.php";
             break;
+        case 'cat_hardware':
+            require_once "view/_hardware.php";
+            break;
         default:
             require_once "view/_categories.php";
     }
