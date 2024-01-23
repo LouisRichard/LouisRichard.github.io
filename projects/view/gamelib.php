@@ -27,15 +27,15 @@ ob_start();
           <div class="swiper-wrapper align-items-center">
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/gamelib/login.jpg" alt="Login page">
+              <img src="../assets/img/portfolio/app/gamelib/login.jpg" alt="Login page">
             </div>
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/gamelib/addgame.jpg" alt="Adding a game">
+              <img src="../assets/img/portfolio/app/gamelib/addgame.jpg" alt="Adding a game">
             </div>
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/gamelib/mainpage.jpg" alt="Main page">
+              <img src="../assets/img/portfolio/app/gamelib/mainpage.jpg" alt="Main page">
             </div>
 
           </div>

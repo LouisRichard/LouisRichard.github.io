@@ -27,11 +27,11 @@ ob_start();
           <div class="swiper-wrapper align-items-center">
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/numericdice.jpg" alt="Front of the dice">
+              <img src="../assets/img/portfolio/hardware/numericdice.jpg" alt="Front of the dice">
             </div>
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/numericdice/back.jpg" alt="Back of the dice">
+              <img src="../assets/img/portfolio/hardware/numericdice/back.jpg" alt="Back of the dice">
             </div>
           </div>
           <div class="swiper-pagination"></div>

@@ -27,19 +27,19 @@ ob_start();
           <div class="swiper-wrapper align-items-center">
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/tpinews/home.jpg" alt="Home page">
+              <img src="../assets/img/portfolio/web/tpinews/home.jpg" alt="Home page">
             </div>
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/tpinews/comments.jpg" alt="Comments">
+              <img src="../assets/img/portfolio/web/tpinews/comments.jpg" alt="Comments">
             </div>
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/tpinews/filter.jpg" alt="filters on article page">
+              <img src="../assets/img/portfolio/web/tpinews/filter.jpg" alt="filters on article page">
             </div>
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/tpinews/addarticle.jpg" alt="Adding an article">
+              <img src="../assets/img/portfolio/web/tpinews/addarticle.jpg" alt="Adding an article">
             </div>
           </div>
           <div class="swiper-pagination"></div>

@@ -31,7 +31,7 @@ ob_start();
             </div>
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/codeabbey.jpg" alt="CodeAbbey's front page">
+              <img src="../assets/img/portfolio/challenges/codeabbey.jpg" alt="CodeAbbey's front page">
             </div>
           </div>
           <div class="swiper-pagination"></div>

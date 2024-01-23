@@ -27,7 +27,7 @@ ob_start();
           <div class="swiper-wrapper align-items-center">
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/rootme.jpg" alt="">
+              <img src="../assets/img/portfolio/challenges/rootme.jpg" alt="">
             </div>
           </div>
           <div class="swiper-pagination"></div>

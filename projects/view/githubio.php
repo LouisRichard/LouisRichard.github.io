@@ -27,11 +27,11 @@ ob_start();
           <div class="swiper-wrapper align-items-center">
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/githubio/V1.jpg" alt="V1.0">
+              <img src="../assets/img/portfolio/web/githubio/V1.jpg" alt="V1.0">
             </div>
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/githubio/V2.jpg" alt="V2.0">
+              <img src="../assets/img/portfolio/web/githubio/V2.jpg" alt="V2.0">
             </div>
           </div>
           <div class="swiper-pagination"></div>
