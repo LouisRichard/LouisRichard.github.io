@@ -83,20 +83,20 @@
           <li><a class="nav-link scrollto " href="../../index.html#portfolio">Portfolio</a></li>
           <li class="dropdown"><a href="projects.php"><span>Projects</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li class="dropdown"><a href="#"><span>Ongoing</span> <i class="bi bi-chevron-right"></i></a>
+              <li class="dropdown"><a href="projects.php?p=cat_ongoing"><span>Ongoing</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Thinkpad X60 repairs</a></li>
                   <li><a href="#">MacBook Pro 1502 repairs</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="#"><span>Apps</span> <i class="bi bi-chevron-right"></i></a>
+              <li class="dropdown"><a href="projects.php?p=cat_apps"><span>Apps</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="projects.php?p=gamelib">Game Library</a></li>
                   <li><a href="projects.php?p=awsscheduler">AWS Scheduler</a></li>
                   <li><a href="projects.php?p=dwm">DWM</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="#"><span>Hardware</span> <i class="bi bi-chevron-right"></i></a>
+              <li class="dropdown"><a href="projects.php?p=cat_hardware"><span>Hardware</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="projects.php?p=numericdice">Numeric Dice</a></li>
                   <li><a href="#">Thinkpad X60 repairs</a></li>
@@ -104,7 +104,7 @@
                   <li><a href="projects.php?p=dellupre">Dell laptops upgrades and repairs</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="#"><span>System</span> <i class="bi bi-chevron-right"></i></a>
+              <li class="dropdown"><a href="projects.php?p=cat_system"><span>System</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">TrueNas Setup</a></li>
                   <li><a href="#">Linux Daily Driver</a></li>
@@ -113,13 +113,13 @@
                   <li><a href="#">Apache local server</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="#"><span>Web</span> <i class="bi bi-chevron-right"></i></a>
+              <li class="dropdown"><a href="projects.php?p=cat_web"><span>Web</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="projects.php?p=githubio">richard486.ch</a></li>
                   <li><a href="projects.php?p=tpinews">TPI - News Website</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="#"><span>Challenges</span> <i class="bi bi-chevron-right"></i></a>
+              <li class="dropdown"><a href="projects.php?p=cat_challenges"><span>Challenges</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="projects.php?p=codeabbey">CodeAbbey</a></li>
                   <li><a href="projects.php?p=hackerrank">HackerRank</a></li>
