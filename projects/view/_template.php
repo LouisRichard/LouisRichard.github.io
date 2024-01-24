@@ -105,7 +105,7 @@
               <li class="dropdown"><a href="projects.php?p=cat_system"><span>System</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="projects.php?p=truenassetup">TrueNas Setup</a></li>
-                  <li><a href="#">Linux Daily Driver</a></li>
+                  <li><a href="projects.php?p=linuxdaily">Linux Daily Driver</a></li>
                   <li><a href="#">Windows Server Setup</a></li>
                   <li><a href="#">DomoticZ</a></li>
                   <li><a href="#">Apache local server</a></li>

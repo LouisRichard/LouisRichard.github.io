@@ -8,7 +8,7 @@ ob_start();
     <ol>
       <li><a href="../../index.html">Home</a></li>
       <li><a href="projects.php">projects</a></li>
-      <li><a href="projects.php?p=cat_system">apps</a></li>
+      <li><a href="projects.php?p=cat_system">system</a></li>
       <li>truenas setup</li>
     </ol>
     <h2>TrueNas Setup</h2>
