@@ -10,7 +10,8 @@ ob_start();
     <li><a href="../../index.html">Home</a></li>
       <li><a href="projects.php">projects</a></li>
       <li><a href="projects.php?p=cat_hardware">hardware</a></li>
-      <li>dell upgrades & repairs</li>
+      <li><a href="projects.php?p=dellupre">dell upgrades & repairs</a></li>
+      <li>More info</li>
     </ol>
     <h2>Dell upgrades and repairs</h2>
 
