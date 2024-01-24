@@ -46,15 +46,6 @@ ob_start();
             </a>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="projects.php?p=x60repairs">
-              <img src="../assets/img/portfolio/hardware/x60repair.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Thinkpad X60 repairs</h4>
-              </div>
-            </a>
-          </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <a href="projects.php?p=mbprepairs">
               <img src="../assets/img/portfolio/hardware/mbprepairs.jpg" class="img-fluid" alt="">
@@ -66,7 +57,7 @@ ob_start();
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <a href="projects.php?p=dellupre">
-              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/hardware/dellupre.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Dell laptops updgrades and repairs</h4>
               </div>
