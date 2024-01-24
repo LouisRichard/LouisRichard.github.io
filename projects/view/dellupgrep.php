@@ -49,7 +49,7 @@ ob_start();
           <p>
           This project was realised partly due to interest and partly due to necessity for a laptop.<br/>
           I mostly worked on Dell laptops because it's what I could get my hands on at the time. They mostly came from school or companies clearing out old machines.</br>
-          Visit the <a href="#TODO">More info</a> page about this project to learn all the repairs and modifications done to the laptops.<br/><br/>
+          Visit the <a href="projects.php?p=more_dell">More info</a> page about this project to learn all the repairs and modifications done to the laptops.<br/><br/>
           Here is a list of the laptops I've worked on : 
           <ul>
             <li>Dell Latitude D620</li>
