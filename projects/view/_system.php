@@ -48,7 +48,7 @@ ob_start();
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <a href="projects.php?p=linuxdaily">
-              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/system/linuxdaily.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Linux Daily Driver</h4>
               </div>
@@ -57,7 +57,7 @@ ob_start();
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <a href="projects.php?p=winserver">
-              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/system/winsrv.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Windows Server setup</h4>
               </div>

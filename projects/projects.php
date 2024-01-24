@@ -54,6 +54,9 @@ if (isset($_GET['p'])) {
         case 'linuxdaily':
             require_once "view/linuxdaily.php";
             break;
+        case 'winserver':
+            require_once "view/winsrv.php";
+            break;
         // Project categories
         case 'cat_ongoing':
             require_once "view/_ongoing.php";

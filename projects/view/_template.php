@@ -106,7 +106,7 @@
                 <ul>
                   <li><a href="projects.php?p=truenassetup">TrueNas Setup</a></li>
                   <li><a href="projects.php?p=linuxdaily">Linux Daily Driver</a></li>
-                  <li><a href="#">Windows Server Setup</a></li>
+                  <li><a href="projects.php?p=winserver">Windows Server Setup</a></li>
                   <li><a href="#">DomoticZ</a></li>
                   <li><a href="#">Apache local server</a></li>
                 </ul>
@@ -167,7 +167,8 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="../index.html">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="../index.html#about">About me</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="../index.php#portfolio">portfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="../index.php#portfolio">Portfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="projects.php">Projects</a></li>
             </ul>
           </div>
 
