@@ -67,6 +67,10 @@ if (isset($_GET['p'])) {
         case 'cat_challenges':
             require_once "view/_challenges.php";
             break;
+        // More info
+        case 'more_dell':
+            require_once "view/more_dell.php";
+            break;
         default:
             require_once "view/_categories.php";
     }

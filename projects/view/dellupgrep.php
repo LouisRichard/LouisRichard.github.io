@@ -41,7 +41,7 @@ ob_start();
             <li><strong>Category</strong>: Hardware</li>
             <li><strong>Client</strong>: me</li>
             <li><strong>Project date</strong>: 2013 - Today</li>
-            <li><strong>More info</strong>: <a href="#TODO">More info</a></li>
+            <li><strong>More info</strong>: <a href="projects.php?p=more_dell">More info</a></li>
           </ul>
         </div>
         <div class="portfolio-description">
