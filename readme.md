@@ -6,17 +6,20 @@
 
 ****
 
+** If you try to access this website through github.io, you will be redirected. **
+** Github pages doesn't work too well with PHP **
+
+****
+
 This website is very much still a work in progress.  
 TODO :
 * Spellcheck  
 * Change images  
-* Write it in French as well
-* Write details for the projects
-* Add a switch language menu  
+* Write details for the projects  
 
 I tried not to use a template but it ended up looking like crap so I ended up using one anyway. Oopsy~~. 
 
-Feel free to check it out at https://louisrichard.github.io/ or https://richard486.ch/
+Feel free to check it out at https://richard486.ch/
 
 ## Softwares Used
 *  Notepad++ - Making of the V1.0  
@@ -32,16 +35,4 @@ Feel free to check it out at https://louisrichard.github.io/ or https://richard4
 ****
 
 ## Credits
-* Template from [BootstrapMade](https://bootstrapmade.com/)  
-* Hosted with [Github Pages](https://www.pages.github.com/)  
-* Also Hosted by [Infomaniak](https://infomaniak.com)  
-* Developer - [Louis Richard](https://www.github.com/louisrichard/) 
-* Images - [Liam Trancoso](https://www.instagram.com/liamtrxn.exe/), [Ludovic Richard](https://github.com/ludovicrichard2002), [Jonas Hautier](https://www.github.com/jonashau/) and [Louis Richard](https://www.github.com/louisrichard/)  
-  * Sources images :  
-    * [IconArchive](https://iconarchive.com/)  
-    * [Amazon AWS](https://aws.amazon.com/)  
-    * [CodeAbbey](https://www.codeabbey.com/)  
-    * [HackerRank](https://www.hackerrank.com/)  
-    * [Root-Me](https://www.root-me.org/)  
-    * [CanStockPhoto](https://www.canstockphoto.fr/)  
-    * [GitHub](https://www.github.com/)   
+* Template from [BootstrapMade](https://bootstrapmade.com/)    
