@@ -85,7 +85,7 @@
             <ul>
               <li class="dropdown"><a href="projects.php?p=cat_ongoing"><span>Ongoing</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="projects/projects.php?p=mbprepairs">MacBook Pro 1502 repairs</a></li>
+                  <li><a href="projects.php?p=mbprepairs">MacBook Pro 1502 repairs</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="projects.php?p=cat_apps"><span>Apps</span> <i class="bi bi-chevron-right"></i></a>
