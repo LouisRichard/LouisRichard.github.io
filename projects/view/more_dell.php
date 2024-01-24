@@ -23,7 +23,7 @@ ob_start();
 
     <div class="row">
       <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left">
-        <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+        <img src="../assets/img/portfolio/hardware/dellupre.jpg" class="img-fluid" alt="">
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
         <h3>I just really like Dell laptops</h3>
