@@ -37,15 +37,6 @@ ob_start();
       </div>
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="150">
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="projects.php?p=x60repairs">
-              <img src="../assets/img/portfolio/hardware/x60repair.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Thinkpad X60 repairs</h4>
-              </div>
-            </a>
-          </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <a href="projects.php?p=mbprepairs">
               <img src="../assets/img/portfolio/hardware/mbprepairs.jpg" class="img-fluid" alt="">
