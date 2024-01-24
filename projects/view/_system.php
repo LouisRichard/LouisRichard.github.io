@@ -38,8 +38,8 @@ ob_start();
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="150">
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="projects.php?p=truenas">
-              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+            <a href="projects.php?p=truenassetup">
+              <img src="../assets/img/portfolio/system/truenas.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>TrueNas setup</h4>
               </div>

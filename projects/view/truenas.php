@@ -27,7 +27,13 @@ ob_start();
           <div class="swiper-wrapper align-items-center">
 
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/portfolio-8.jpg" alt="">
+              <img src="../assets/img/portfolio/system/truenas/img-1.jpg" alt="">
+            </div>
+            <div class="swiper-slide">
+              <img src="../assets/img/portfolio/system/truenas.jpg" alt="">
+            </div>
+            <div class="swiper-slide">
+              <img src="../assets/img/portfolio/system/truenas/img-2.jpg" alt="">
             </div>
           </div>
           <div class="swiper-pagination"></div>
