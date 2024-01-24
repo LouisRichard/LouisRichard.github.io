@@ -86,6 +86,7 @@
               <li class="dropdown"><a href="projects.php?p=cat_ongoing"><span>Ongoing</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="projects.php?p=mbprepairs">MacBook Pro 1502 repairs</a></li>
+                  <li><a href="projects.php?p=githubio">richard486.ch</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="projects.php?p=cat_apps"><span>Apps</span> <i class="bi bi-chevron-right"></i></a>
@@ -107,8 +108,8 @@
                   <li><a href="projects.php?p=truenassetup">TrueNas Setup</a></li>
                   <li><a href="projects.php?p=linuxdaily">Linux Daily Driver</a></li>
                   <li><a href="projects.php?p=winserver">Windows Server Setup</a></li>
-                  <li><a href="#">DomoticZ</a></li>
-                  <li><a href="#">Apache local server</a></li>
+                  <li><a href="#">DomoticZ (coming soon)</a></li>
+                  <li><a href="#">Apache local server (coming soon)</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="projects.php?p=cat_web"><span>Web</span> <i class="bi bi-chevron-right"></i></a>
