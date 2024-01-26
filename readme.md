@@ -6,8 +6,8 @@
 
 ****
 
-** If you try to access this website through github.io, you will be redirected. **
-** Github pages doesn't work too well with PHP **
+**If you try to access this website through github.io, you will be redirected.**  
+**Github pages doesn't work too well with PHP**
 
 ****
 
