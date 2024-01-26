@@ -108,8 +108,7 @@
                   <li><a href="projects.php?p=truenassetup">TrueNas Setup</a></li>
                   <li><a href="projects.php?p=linuxdaily">Linux Daily Driver</a></li>
                   <li><a href="projects.php?p=winserver">Windows Server Setup</a></li>
-                  <li><a href="#">DomoticZ (coming soon)</a></li>
-                  <li><a href="#">Apache local server (coming soon)</a></li>
+                  <li><a href="projects.php?p=domoticz">DomoticZ</a></li>
                 </ul>
               </li>
               <li class="dropdown"><a href="projects.php?p=cat_web"><span>Web</span> <i class="bi bi-chevron-right"></i></a>

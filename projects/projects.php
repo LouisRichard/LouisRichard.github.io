@@ -57,6 +57,9 @@ if (isset($_GET['p'])) {
         case 'winserver':
             require_once "view/winsrv.php";
             break;
+        case 'domoticz':
+            require_once "view/domoticz.php";
+            break;
         // Project categories
         case 'cat_ongoing':
             require_once "view/_ongoing.php";

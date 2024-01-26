@@ -65,19 +65,10 @@ ob_start();
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="#">
-              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+            <a href="projects.php?p=domoticz">
+              <img src="../assets/img/portfolio/system/domoticz.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>DomoticZ (coming soon)</h4>
-              </div>
-            </a>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="#">
-              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Apache Local server (coming soon)</h4>
+                <h4>DomoticZ</h4>
               </div>
             </a>
           </div>

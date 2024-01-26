@@ -1,0 +1,5 @@
+<html>
+    <!--Delete this file and replace it with "real_index.html" on your own website.
+    PHP doesn't work on github pages ;)-->
+    <script>location.href = 'https://richard486.ch';</script>
+</html>
