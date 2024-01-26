@@ -25,7 +25,9 @@ ob_start();
       <div class="col-lg-8">
         <div class="portfolio-details-slider swiper">
           <div class="swiper-wrapper align-items-center">
-
+          <div class="swiper-slide">
+              <img src="../assets/img/portfolio/hardware/mbp/mbp3.jpg" alt="">
+            </div>
             <div class="swiper-slide">
               <img src="../assets/img/portfolio/hardware/mbp/mbp1.jpg" alt="">
             </div>
@@ -44,7 +46,7 @@ ob_start();
             <li><strong>Category</strong>: Hardware, ongoing</li>
             <li><strong>Client</strong>: me</li>
             <li><strong>Project date</strong>: 2023 - Today</li>
-            <li><strong>More info</strong>: coming soon</li>
+            <li><strong>More info</strong>: <a href="projects.php?p=more_mbprepairs">More info</a></li>
           </ul>
         </div>
         <div class="portfolio-description">

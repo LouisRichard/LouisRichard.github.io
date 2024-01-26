@@ -83,6 +83,10 @@ if (isset($_GET['p'])) {
         case 'more_dell':
             require_once "view/more_dell.php";
             break;
+        case 'more_mbprepairs':
+            require_once "view/more_mbp.php";
+            break;
+        //default
         default:
             require_once "view/_categories.php";
     }
