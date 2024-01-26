@@ -53,9 +53,9 @@ ob_start();
           <h2>Just really needed a NAS</h2>
           <p>
           As the title says, I just really needed a NAS to store video files and to someday automize backups.<br/>
-          I chose TrueNas Scale due to the system requirement and because I'm more comfortable using Linux than BSD. The server was a Shuttle with a Core 2 Duo and 8GB of DDR3 1066.<br/><br/>
-          The setup is pretty simple. I used a simple RAID Z1 among two 1TB HDD and created a user with access to it.<br/><br/>
-          In the end, I took down the server due to reliability issues with the hardware. I also had the opportunity of getting an old QNAP 1U server.
+          I opted for TrueNAS Scale due to its system requirements and my greater comfort with Linux compared to BSD. The server I used was a Shuttle with a Core 2 Duo processor and 8GB of DDR3 1066 RAM.<br/><br/>
+          The setup was straightforward. I configured a simple RAID Z1 using two 1TB HDDs and created a user with access to it.<br/><br/>
+          Ultimately, I decommissioned the server due to reliability issues with the hardware. Additionally, I had the opportunity to acquire an old QNAP 1U server.
           </p>
         </div>
       </div>

@@ -60,11 +60,11 @@ ob_start();
         <div class="portfolio-description">
           <h2>Final project of my formation</h2>
           <p>
-            This website was made in the context of my computer science formation at the <a href="https://cpnv.ch">CPNV</a>.<br/>
-            It's a pretty basic website using PHP and a MariaDB database to store users and articles.<br/><br/>
-            The website was unfortunately never finished. I realised quite late that I was lacking both time and skills to make the website what I wanted it to be.</br>
-            (the picture shown were made during the conception of the project)
-            I have no plan at this time to come back to it.
+          This website was developed during my computer science education at the<a href="https://cpnv.ch">CPNV</a>.<br/>
+          It's a straightforward website built using PHP and a MariaDB database to manage users and articles.<br/><br/>
+          Regrettably, the website was never completed. I came to the realization rather late that I lacked both the time and the necessary skills to fulfill my vision for the website.</br>
+          (The pictures shown were taken during the project's conception)
+          At present, I have no plans to revisit it.
           </p>
         </div>
       </div>

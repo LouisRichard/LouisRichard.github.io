@@ -47,9 +47,9 @@ ob_start();
         <div class="portfolio-description">
           <h2>Gotta keep old hardware going!</h2>
           <p>
-          This project was realised partly due to interest and partly due to necessity for a laptop.<br/>
-          I mostly worked on Dell laptops because it's what I could get my hands on at the time. They mostly came from school or companies clearing out old machines.</br>
-          Visit the <a href="projects.php?p=more_dell">More info</a> page about this project to learn all the repairs and modifications done to the laptops.<br/><br/>
+          This project came to fruition partly out of interest and partly out of necessity for a laptop.<br/>
+          Primarily, I focused on Dell laptops because they were readily available to me at the time, often acquired from school or companies clearing out old machines.</br>
+          For a comprehensive overview of the repairs and modifications performed on these laptops, please visit the <a href="projects.php?p=more_dell">More info</a> page about this project.<br/><br/>
           Here is a list of the laptops I've worked on : 
           <ul>
             <li>Dell Latitude D620</li>
@@ -58,9 +58,9 @@ ob_start();
             <li>Dell Inspiron 9400</li>
             <li>Dell Inspiron 6400</li>
           </ul>
-          I have worked on more recent business Dell laptops and not much has changed in the way of upgrades and repairs.<br/>
-          I have also worked on other brands but I mostly played around with Dell laptops.<br/>
-          Given either a guide or a manual, I'd feel comfortable trying out repairs on more laptops.
+          Although I've had the opportunity to work on more recent business Dell laptops, the essence of upgrades and repairs hasn't changed much.<br/>
+          While I have dabbled with other brands, my focus has predominantly been on Dell laptops.<br/>
+          Given access to either a guide or a manual, I would feel confident in attempting repairs on a wider range of laptops.
           </p>
         </div>
       </div>

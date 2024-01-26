@@ -52,11 +52,11 @@ ob_start();
         <div class="portfolio-description">
           <h2>Series of programming challenges to solve</h2>
           <p>
-          Yet another website I like to go to to challenge myself and learn new tricks.<br/>
-          You'll see here that I mainly use PHP to solve the challenges. That is because PHP is a language I feel really confortable with. In web application not so much but I really like the scripting abilities of this language.<br/>
-          Some of the challenges have been resolved as a team of two with my classmate <a href="https://github.com/jonashau">Jonas Hautier</a>. We both still try to do them by ourselves.
+          This is yet another website where I challenge myself and learn new tricks.<br/>
+          As you'll notice, I primarily utilize PHP to solve the challenges. This preference stems from my comfort level with PHP; while I may not be as proficient in web application development, I greatly appreciate the scripting capabilities of this language.<br/>
+          A few challenges have been tackled collaboratively with my classmate <a href="https://github.com/jonashau">Jonas Hautier</a>. However, we both strive to solve them independently.
           <br/><br/>
-          No solution will be provided unless asked for.
+          Please note that solutions will not be provided unless requested.
           </p>
         </div>
       </div>

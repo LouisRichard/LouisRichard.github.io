@@ -47,11 +47,11 @@ ob_start();
         <div class="portfolio-description">
           <h2>Series of challenges to solve</h2>
           <p>
-          A nice thing to do when you have time to kill is to try and improve your performances in your domain.<br/>
-          That's basically what I'm doing here. I like to practice and learn on HackerRank. I mainly used it to revise SQL and learn a bit of ruby. I still have a lot of things to explore there.<br/>
-          Some of the challenges have been resolved as a team of two with my classmate <a href="https://github.com/jonashau/">Jonas Hautier</a>. We both still try to do them by ourselves.
+          A productive way to pass the time is by striving to enhance your skills within your field of expertise.<br/>
+          That's precisely what I'm doing here. I enjoy practicing and learning on HackerRank. Initially, I used it to review SQL and delve into Ruby programming. However, there are still many areas on the platform that I have yet to explore.<br/>
+          A few challenges have been tackled collaboratively with my classmate <a href="https://github.com/jonashau/">Jonas Hautier</a>. Nevertheless, we both endeavor to tackle them individually.
           <br/><br/>
-          No solution will be provided unless asked for.
+          Please note that solutions will not be provided unless requested.
           </p>
         </div>
       </div>

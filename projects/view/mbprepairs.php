@@ -52,15 +52,14 @@ ob_start();
         <div class="portfolio-description">
           <h2>First one on apple machines</h2>
           <p>
-            As the title says, it's my first time working on an Apple machine beside the occasional iPhone 4 from back in the days.<br/>
-            This machine was given to me by my dad as "not working". Lo and behold, it worked for me!<br/>
-            Of course, it didn't last long.<br/><br/>
-            With trial and error, I noticed that when I applied pressure near the I/O Board connector, the computer would crash instantly.<br/>
-            The same happened when the computer was simply laid on a table.<br/>
-            So, to try and remidy this issue, I armed myself with a drill and a file and made a hole in the bottom cover where the connector is! (img-2)<br/><br/>
-            Of course, this fix didn't last and the issue got worse and worse to the point where, even opened and with the I/O board disconnected, the issue would happen semi-randomly.<br/>
-            My current theory is that at least one of the memory modules is bad, causing a kernel pannic when slightly moved.<br/>
-            Project is still ongoing as I am currently waiting for parts to fix it. I ordered : 
+          As the title suggests, this marks my first experience working on an Apple machine, apart from the occasional encounter with an iPhone 4 from years ago.<br/>
+          Interestingly, this particular machine was handed to me by my dad, labeled as "not working." However, to my surprise, it functioned perfectly fine—at least initially.<br/><br/>
+          Soon, I encountered a peculiar issue: whenever pressure was applied near the I/O Board connector, the computer would instantly crash.<br/>
+          This problem persisted even when the computer was placed on a flat surface.<br/>
+          In an attempt to address this issue, I decided to take matters into my own hands. Armed with a drill and a file, I carved a hole in the bottom cover where the connector is located (see img-3).<br/><br/>
+          Unfortunately, this makeshift fix proved to be short-lived, and the issue worsened over time. Eventually, even with the I/O board disconnected and the computer opened up, the problem persisted sporadically.<br/>
+          My current hypothesis is that at least one of the memory modules is faulty, leading to kernel panics with slight movement.<br/>
+          The project remains ongoing as I await parts to resolve the issue. I've ordered: 
               <ul>
                 <li>A new logic board - 2013, i7, 16GB</li>
                 <li>A new I/O cable in case I damaged mine</li>
@@ -68,7 +67,7 @@ ob_start();
                 <li>A new bottom cover</li>
                 <li>A screwdriver that isn't a #000 flathead</li>
             </ul>
-            All new parts come from different recyclers on AliExpress.
+            All the new parts have been sourced from various recyclers on AliExpress.
           </p>
         </div>
       </div>

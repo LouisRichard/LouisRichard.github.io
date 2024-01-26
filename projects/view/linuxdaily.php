@@ -46,14 +46,14 @@ ob_start();
         <div class="portfolio-description">
           <h2>I am the admin</h2>
           <p>
-            I took on this "project" because most of my computers at the time were not too powerful and I needed an alternative to the disaster that was Windows 8 in the early days.<br/>
-            Today, I just like the convenienece of it, really. Once you get used to a new operating system, you just don't really think about it.<br/><br/>
-            At the start, it was pretty complicated especially because I like to game on my PC. Back then, Proton didn't exist and Wine wasn't exactly made for this purpose.<br/>
-            I ended up coming back to Windows on my main machine to game and work but all my other computers, laptops or other, ran Linux from then on.<br/>
-            Started out with Ubuntu and Mint, moved on to Debian and then to ArchLinux when I got bored of it and wanted to try something new.<br/>
-            Tried out Gentoo but compiling everything takes a lot of time that I often don't have.<br/>
-            Also tried Void but I got too used to the SystemD init system so it didn't stay.<br/>
-            Today, I use Debian on workstations, Windows on my gaming machine, and ArchLinux on everything else.<br/>
+          I embarked on this "project" primarily because most of my computers at the time lacked sufficient power, and I needed an alternative to the early disaster that was Windows 8.<br/>
+          Nowadays, I simply appreciate the convenience of it all. Once you become accustomed to a new operating system, you tend to forget about it.<br/><br/>
+          Initially, it was quite complicated, especially because I enjoy gaming on my PC. Back then, Proton didn't exist, and Wine wasn't exactly optimized for gaming. <br/>
+          Consequently, I reverted to Windows on my main machine for gaming and work purposes, while all my other computers, including laptops, ran on Linux from that point onward.<br/>
+          I started with Ubuntu and Mint, then transitioned to Debian, and eventually explored ArchLinux when I grew tired of the status quo and wanted to try something different.<br/>
+          I experimented with Gentoo briefly, but the extensive compiling required a lot of time, which I often lacked.<br/>
+          I also gave Void a shot, but I had grown too accustomed to the SystemD init system, so it didn't stick.<br/>
+          Presently, I use Debian on workstations, Windows on my gaming machine, and ArchLinux on everything else.<br/>
           </p>
         </div>
       </div>

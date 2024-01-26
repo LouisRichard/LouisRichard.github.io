@@ -47,18 +47,18 @@ ob_start();
         <div class="portfolio-description">
           <h2>My modified version of DWM</h2>
           <p>
-          This project was made when I took interest into WM to replace DE to get the most out of old laptops. <br/>
-          My fork includes the following modifications :
+          This project emerged from my interest in Window Managers (WM) as a replacement for Desktop Environments (DE), aimed at optimizing the performance of old laptops.<br/>
+          My fork encompasses the following modifications:
             <ul>
-              <li>Using a different system font</li>
-              <li>Modifying the icons for the <i>"virtual desktops"</i></li>
+              <li>Implementation of a different system font</li>
+              <li>Adjustment of icons for the <i>"virtual desktops"</i></li>
               <li>
                 Working media keys for Dell Latitude D630 laptop
                 <ul>
                   <li>Made to work with PulseAudio and Alsa</li>
                 </ul>
               </li>
-              <li>Color change</li>
+              <li>Color scheme alteration</li>
               <li>Custom <i>.xinitrc</i>
                 <ul>
                   <li>
@@ -67,14 +67,14 @@ ob_start();
                       <li>Monitoring Memory usage</li>
                       <li>Monitoring CPU usage</li>
                       <li>Monitoring Battery status</li>
-                      <li>Date & time</li>
+                      <li>Displaying Date & time</li>
                     </ul>
                   </li>
-                  <li>Wallpaper change using <i>feh</i></li>
+                  <li>Wallpaper management using <i>feh</i></li>
                 </ul>
               </li>
             </ul>
-            In the end, I archived the project as I went back to using a regular DE (<i>XFCE4</i>) and the repo was not kept up to date with Suckless' official repository.
+            Ultimately, I archived the project as I reverted to using a conventional DE (<i>XFCE4</i>), and the repository was not kept synchronized with Suckless' official repository.
           </p>
         </div>
       </div>

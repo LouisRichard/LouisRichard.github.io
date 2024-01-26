@@ -50,11 +50,11 @@ ob_start();
         <div class="portfolio-description">
           <h2>My first embedded system project</h2>
           <p>
-          This project was the first where I had the chance to program hardware. The objective was to write the program that would run on the micro controller for a numeric dice.</br>
-          The board was designed by the CPNV. It used two 7 segments displays to print the numbers. The dice has the ability to switch between 4, 6, 8, 12 and 20 sided dices.</br>
-          To develop this program and test it, the CPNV had us use the PIC16F818 micro controller on the EasyPic 7 development board. They had us solder the components on the PCB prior to programming.<br/>
+          This project marked the first opportunity I had to program hardware. The objective was to write the program to run on the microcontroller for a numeric dice.</br>
+          The board, designed by the CPNV, utilized two 7-segment displays to showcase the numbers. The dice had the capability to switch between 4, 6, 8, 12, and 20-sided dice.</br>
+          To develop and test this program, CPNV had us utilize the PIC16F818 microcontroller on the EasyPic 7 development board. Prior to programming, we soldered the components onto the PCB.<br/>
           <br/>
-          Note : This project was made pretty early on my coding "career". The code is written in french and the all variables are globals. If you wish to take a look at it, shoot me an email.
+          Note: This project was undertaken quite early in my coding journey. The code is written in French, and all variables are global. If you wish to take a look at it, shoot me an email.
           </p>
         </div>
       </div>

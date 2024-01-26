@@ -53,9 +53,9 @@ ob_start();
         <div class="portfolio-description">
           <h2>Is this some kind of recursion joke?</h2>
           <p>
-          This project was made at first because it was recomended for us to create a portfolio so here we are.</br>
-          I quite enjoy keeping it up to date, now and I can see the benefits of having your own website.</br>
-          At first, I had the intention of not using a template and do everything by myself. Unfortunately, I'm not that good at web design so I ended up using one anyway. Oopsy~~ 
+          This project initially began because it was recommended for us to create a portfolio, so here we are.</br>
+          I quite enjoy keeping it up to date now, and I can see the benefits of having your own website.</br>
+          Initially, I intended not to use a template and do everything by myself. Unfortunately, I'm not that proficient in web design, so I ended up using one anyway. Oopsy~~
           </p>
         </div>
       </div>

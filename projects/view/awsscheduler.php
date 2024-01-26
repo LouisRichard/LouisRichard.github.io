@@ -48,11 +48,11 @@ ob_start();
         <div class="portfolio-description">
           <h2>A project designed to manage existing AWS Infra</h2>
           <p>
-          Aws Scheduler is designed to manage existing AWS Infra (start, stop, alert, email, budget follow up).</br>
-          This project was made while in an internship at the CPNV. Mr. Glassey being the product owner and the project manager, he is the one who makes decisions and review the code in the end.</br>
-          The project is writted in OO-PHP, which was a first for me. This was also my first time working with the AWS API.<br/>
-          I still had a lot of fun working on it while I worked there as part of the team.<br/>
-          Now, it seems like the projects is on standby or stopped for the time being.
+          AWS Scheduler is designed to manage existing AWS infrastructure (start, stop, alert, email, budget follow-up).</br>
+          This project was developed during my internship at CPNV, with Mr. Glassey serving as the product owner and project manager responsible for decision-making and code review.</br>
+          The project is written in object-oriented PHP, which was a new experience for me. Additionally, it was my first time working with the AWS API.<br/>
+          Despite the challenges, I thoroughly enjoyed my time working on it as part of the team.<br/>
+          Currently, it appears that the project is either on standby or halted for the time being.
           </p>
         </div>
       </div>

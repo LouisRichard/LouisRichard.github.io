@@ -57,17 +57,17 @@ ob_start();
         <div class="portfolio-description">
           <h2>A project written in C# to organise your game library</h2>
           <p>
-          This project was made in the context of my studies. It was a group project meant to be done in C# .NET. The subject was free to choose but had to obey some specifications such has :
+          This project was created within the context of my studies. It was a group project intended to be developed in C# .NET. The subject was free to choose but had to adhere to certain specifications, such as:
             <ul>
-                <li>using a database</li>
-                <li>having some sort of login</li>
-                <li>using the Agil method to manage the project</li>
+                <li>Utilizing a database</li>
+                <li>Implementing some form of login functionality</li>
+                <li>Employing the Agile methodology to manage the project</li>
             </ul>
             <br/>
-            This project was made with the intention of keeping it free and open source without any restrictions enforced by our school.<br/>
-            This proved difficult at times but we still managed to do it using only free softwares except for Visual Studio Entreprise.<br/>
-            The point was to keep updating the software until we found it to be "good enough". As time went on, we both took on other projects and this one was left to the side.<br/>
-            I'd personally like to return to it some day. 
+            The intention behind this project was to keep it free and open-source without any restrictions imposed by our school.<br/>
+            Although challenging at times, we managed to achieve this using only free software, with the exception of Visual Studio Enterprise.<br/>
+            The objective was to continuously update the software until we deemed it 'good enough'. However, as time progressed, we became involved in other projects, causing this one to be put aside.<br/>
+            Personally, I aspire to revisit it someday. 
           </p>
         </div>
       </div>

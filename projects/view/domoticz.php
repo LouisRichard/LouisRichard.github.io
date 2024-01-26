@@ -51,11 +51,11 @@ ob_start();
         <div class="portfolio-description">
           <h2>Automate the lights!</h2>
           <p>
-            This project was done in the context of my studies at the <a href="https://cpnv.ch/">CPNV</a>.<br/><br/>
-            For this project, we used a RaspberryPi setup with Raspbian and DomoticZ and two dongles : One for Z-Wave, and the other for EnOcean.<br/>
-            We simulated an appartement with a wooden model that we wired up with electrical sockets, lamps, lightswitches and an old school doorbell.<br/>
-            We then used wireless light switches, smart bulbs, smart sockets and smart switches and different sensors to try and automate some circuits in the house.<br/><br/>
-            We used the software to script different events using the sensors and the switches like you would in an actual appartement.
+            This project was conducted as part of my studies at the <a href="https://cpnv.ch/">CPNV</a>.<br/><br/>
+            For this endeavor, we employed a Raspberry Pi setup with Raspbian and DomoticZ, along with two dongles: one for Z-Wave and the other for EnOcean protocols.<br/>
+            We simulated an apartment using a wooden model, which we wired up with electrical sockets, lamps, light switches, and an old-school doorbell.<br/>
+            Subsequently, we incorporated wireless light switches, smart bulbs, smart sockets, smart switches, and various sensors to automate circuits within the house.<br/><br/>
+            Utilizing the software, we scripted different events using the sensors and switches, replicating real-life scenarios within an apartment setting.
         </div>
       </div>
 

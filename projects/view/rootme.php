@@ -48,11 +48,11 @@ ob_start();
           <h2>Series of challenges to solve</h2>
           <p>
           Yet another website I like to go to to challenge myself and learn new tricks.<br/>
-          This one is a bit more difficult than the other ones. It's more oriented toward hacking and good practices in the real world (what not to do).<br/>
-          I'm forced to admit that I haven't been there in quite some time, though...<br/>
-          Some of the challenges have been resolved as a team of two with my classmate <a href="https://github.com/jonashau/">Jonas Hautier</a>. We both still try to do them by ourselves.
+          This platform tends to be more advanced, focusing on hacking techniques and real-world scenarios (including what to avoid).<br/>
+          I must confess that it's been a while since I last visited this website, though...<br/>
+          Some of the challenges have been tackled collaboratively with my classmate <a href="https://github.com/jonashau/">Jonas Hautier</a>. However, we both strive to tackle them individually.
           <br/><br/>
-          No solution will be provided unless asked for.
+          Please note that solutions will not be provided unless requested.
           </p>
         </div>
       </div>

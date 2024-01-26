@@ -46,9 +46,9 @@ ob_start();
         <div class="portfolio-description">
           <h2>Connect everyone!</h2>
           <p>
-            This project was done in the context of my studies at the <a href="https://cpnv.ch/">CPNV</a>.<br/>
-            During my years there, I had multiple opportunities to set up Windows servers on both virtual machines and real hardware.<br/>
-            We used Windows server for these different services :
+          This project was undertaken as part of my studies at the <a href="https://cpnv.ch/">CPNV</a>.<br/>
+          Throughout my time there, I had numerous opportunities to configure Windows servers on both virtual machines and physical hardware.<br/>
+          We utilized Windows Server for various services, including:
             <ul>
               <li>DHCP server</li>
               <li>DNS service</li>
@@ -56,9 +56,9 @@ ob_start();
               <li>Print and scan server</li>
               <li>Network share with AD users</li>
             </ul>
-            We learned along the way the best practices and how to make redundant servers.<br/>
-            I only have experience in version that reached their EOL already but I'm sure I can catch up if I ever need to :)<br/>
-            Version used during my apprenticeship : 
+            Throughout these experiences, we learned about best practices and how to implement redundant server configurations.<br/>
+            Although my experience is primarily with versions that have reached their End of Life (EOL), I am confident that I can adapt if the need arises.<br/>
+            The versions used during my apprenticeship were : 
             <ul>
               <li>Windows Server 2008 R2</li>
               <li>Windows Server 2012 R2</li>
