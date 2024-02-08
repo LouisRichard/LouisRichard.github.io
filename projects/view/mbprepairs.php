@@ -45,7 +45,7 @@ ob_start();
           <ul>
             <li><strong>Category</strong>: Hardware, ongoing</li>
             <li><strong>Client</strong>: me</li>
-            <li><strong>Project date</strong>: 2023 - Today</li>
+            <li><strong>Project date</strong>: 2023 - FEB 2024</li>
             <li><strong>More info</strong>: <a href="projects.php?p=more_mbprepairs">More info</a></li>
           </ul>
         </div>
@@ -58,16 +58,9 @@ ob_start();
           This problem persisted even when the computer was placed on a flat surface.<br/>
           In an attempt to address this issue, I decided to take matters into my own hands. Armed with a drill and a file, I carved a hole in the bottom cover where the connector is located (see img-3).<br/><br/>
           Unfortunately, this makeshift fix proved to be short-lived, and the issue worsened over time. Eventually, even with the I/O board disconnected and the computer opened up, the problem persisted sporadically.<br/>
-          My current hypothesis is that at least one of the memory modules is faulty, leading to kernel panics with slight movement.<br/>
-          The project remains ongoing as I await parts to resolve the issue. I've ordered: 
-              <ul>
-                <li>A new logic board - 2013, i7, 16GB</li>
-                <li>A new I/O cable in case I damaged mine</li>
-                <li>New screws for the bottom cover</li>
-                <li>A new bottom cover</li>
-                <li>A screwdriver that isn't a #000 flathead</li>
-            </ul>
-            All the new parts have been sourced from various recyclers on AliExpress.
+          My current hypothesis is that at least one of the memory modules is faulty, leading to kernel panics with slight movement.<br/><br/>
+          In 2024, after loosing many auctions to get another laptop, I ordered a new logic board along with a few tools on AliExpress and took it upon myself to replace the faulty board.<br/>
+          This ended up costing me more than one of these second hand but you can't really put a price on a new experience.
           </p>
         </div>
       </div>

@@ -102,15 +102,26 @@ ob_start();
         </p>
       </div>
 
+      <div class="col-lg-6 order-5 order-lg-5" data-aos="fade-left">
+        <img src="../assets/img/portfolio/hardware/mbp/mbp5.jpg" class="img-fluid" alt="">
+      </div>
       <div class="col-lg-6 pt-4 pt-lg-0 order-5 order-lg-5 content" data-aos="fade-up">
         <h4>The definitive fix</h4>
         <p>
           Following <a href="https://www.ifixit.com/Guide/MacBook+Pro+13-Inch+Retina+Display+Late+2013+Logic+Board+Replacement/27702">this iFixIt guide</a>, I started disassembling the laptop.<br/>
-          As of the time of writing, my order still hasn't arrived. Once I receive the parts and tools to go further, I'll update this page with more infos and details of the process.
+          The connectors scattered on the main board can be pretty delicate so I had to be pretty careful with it.<br/><br/>
+          Once the main board was out, I followed the same steps in reverse but installing the new logic board in. <br>
+          The seller did include some thermal paste in the package but I chose to use some Noctua thermal paste I had leftover from my PC build.<br/><br/>
+          
+          Now, because I also installed a new bottom cover to replace the one I drilled through, the marking saying "MacBook Pro" and the serial number are no longer there.<br/>
+          Furthermore, the serial number isn't the original one linked to this machine.<br/>
+          This might affect the value but it won't impact the performance in any way.<br/><br/>
+          With the cover closed off, I plugged in the laptop and started it!<br/>
+          Once in MacOS, I simply changed the default boot partition as it was booting on Windows by default, and updated the system.<br/><br/>
+          Right now, the computer works perfectly! The new logic board comes with the advertised CPU en memory, the IO works fine and everything is in order!<br/><br/>
+          Another victory for the history books!
+          <br/><br/><br/><br/>
         </p>
-      </div>
-      <div class="col-lg-6 order-5 order-lg-5" data-aos="fade-left">
-        <img src="../assets/img/portfolio/hardware/mbp/mbp1.jpg" class="img-fluid" alt="">
       </div>
 
     </div>
