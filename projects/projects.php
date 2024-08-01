@@ -60,6 +60,9 @@ if (isset($_GET['p'])) {
         case 'domoticz':
             require_once "view/domoticz.php";
             break;
+        case 'a1286':
+            require_once "view/a1286.php";
+            break;
         // Project categories
         case 'cat_ongoing':
             require_once "view/_ongoing.php";
