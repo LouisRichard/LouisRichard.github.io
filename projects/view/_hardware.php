@@ -63,6 +63,15 @@ ob_start();
               </div>
             </a>
           </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <a href="projects.php?p=a1286">
+              <img src="../assets/img/portfolio/hardware/a1286.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>MacBook Pro 1286 repairs</h4>
+              </div>
+            </a>
+          </div>
         </div>
       </div>
     </div>

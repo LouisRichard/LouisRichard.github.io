@@ -26,13 +26,10 @@ ob_start();
         <div class="portfolio-details-slider swiper">
           <div class="swiper-wrapper align-items-center">
           <div class="swiper-slide">
-              <img src="../assets/img/portfolio/hardware/mbp/mbp3.jpg" alt="">
+              <img src="../assets/img/portfolio/hardware/a1286/a12861.png" alt="">
             </div>
             <div class="swiper-slide">
-              <img src="../assets/img/portfolio/hardware/mbp/mbp1.jpg" alt="">
-            </div>
-            <div class="swiper-slide">
-              <img src="../assets/img/portfolio/hardware/mbp/mbp2.jpg" alt="">
+              <img src="../assets/img/portfolio/hardware/a1286/a12862.png" alt="">
             </div>
           </div>
           <div class="swiper-pagination"></div>
@@ -46,7 +43,7 @@ ob_start();
             <li><strong>Category</strong>: Hardware, ongoing</li>
             <li><strong>Client</strong>: me</li>
             <li><strong>Project date</strong>: July 2024 - now</li>
-            <li><strong>More info</strong>: <a href="projects.php?p=more_a1286">More info</a></li>
+            <li><strong>More info</strong>: <a href="#">Coming Soon</a></li>
             <li><strong><a href="https://www.youtube.com/@aur.louisrichard">Project on YouTube</a></strong></li>
           </ul>
         </div>
