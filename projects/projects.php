@@ -63,6 +63,9 @@ if (isset($_GET['p'])) {
         case 'a1286':
             require_once "view/a1286.php";
             break;
+        case 'samsung_a33':
+            require_once "view/samsung_a33.php";
+            break;
         // Project categories
         case 'cat_ongoing':
             require_once "view/_ongoing.php";

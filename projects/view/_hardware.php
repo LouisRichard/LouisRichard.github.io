@@ -72,6 +72,14 @@ ob_start();
               </div>
             </a>
           </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <a href="projects.php?p=samsung_a33">
+              <img src="../assets/img/portfolio/hardware/samsung_a33.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Samsung Galaxy A33 repairs</h4>
+              </div>
+            </a>
+          </div>
         </div>
       </div>
     </div>

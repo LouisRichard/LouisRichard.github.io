@@ -75,7 +75,8 @@ ob_start();
               </li>
             </ul>
             Ultimately, I archived the project as I reverted to using a conventional DE (<i>XFCE4</i>), and the repository was not kept synchronized with Suckless' official repository.<br/>
-            As of 2024, I use DWM on laptops and on my Gentoo machine. I now do a custom install everytime with my own <a href="https://github.com/LouisRichard/dotfiles">dotfiles</a>.
+            <s>As of 2024, I use DWM on laptops and on my Gentoo machine. I now do a custom install everytime with my own <a href="https://github.com/LouisRichard/dotfiles">dotfiles</a></s><br/>.
+            I now run Plasma KDE on my main laptop.
           </p>
         </div>
       </div>
