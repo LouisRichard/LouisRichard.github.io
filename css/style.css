@@ -1,0 +1,91 @@
+body {
+      font-family: 'Inter', sans-serif;
+      background: #fff;
+      color: #000;
+      overflow-x: hidden;
+    }
+
+    h1, h2, h3 {
+      text-transform: uppercase;
+      font-weight: 900;
+    }
+
+    /* Hazard stripe bar/divider */
+    .hazard {
+      background: repeating-linear-gradient(
+        -45deg,
+        black,
+        black 20px,
+        #fdee00 20px,
+        #fdee00 40px
+      );
+      height: 40px;
+      width: 100%;
+    }
+
+    .quote-title::before,
+    .quote-title::after {
+      content: '"';
+    }
+
+    .section {
+      position: relative;
+      border-bottom: 2px solid #000;
+      padding: 6rem 0;
+    }
+
+    footer {
+      padding: 4rem 0;
+      border-top: 2px solid #000;
+      position: relative;
+    }
+
+    .util-text {
+      font-size: 0.8rem;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    /* Background oversized text */
+    .bg-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 15rem;
+      font-weight: 900;
+      color: rgba(0,0,0,0.05);
+      white-space: nowrap;
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    /* Neon block */
+    .color-block {
+      background: #39ff14;
+      width: 150px;
+      height: 150px;
+      position: absolute;
+      top: -40px;
+      left: -20px;
+      z-index: 0;
+    }
+
+    /* Keep images inside their boxes */
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .bracket-text {
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    }
+
+    .arrow {
+    display: inline-block;
+    margin: 0.5rem;
+    }
+

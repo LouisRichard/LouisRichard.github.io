@@ -34,5 +34,5 @@ Feel free to check it out at https://richard486.ch/
 *  Spotify - To make my life easier  
 ****
 
-## Credits
-* Template from [BootstrapMade](https://bootstrapmade.com/)    
+## Credit
+The obvious inspiration from the work of Virgil Abloh

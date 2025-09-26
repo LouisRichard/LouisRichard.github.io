@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Valerie — Creative Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      color: #000;
+      overflow-x: hidden;
+    }
+    .bg-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 15rem;
+      font-weight: 900;
+      color: rgba(0,0,0,0.05);
+      z-index: 0;
+      pointer-events: none;
+      white-space: nowrap;
+    }
+    .util-text {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #555;
+    }
+    .hazard {
+      height: 20px;
+      background: repeating-linear-gradient(45deg, black, black 10px, yellow 10px, yellow 20px);
+    }
+    .color-block {
+      background: #39ff14;
+      width: 150px;
+      height: 150px;
+      position: absolute;
+      top: -20px;
+      left: -30px;
+      z-index: 0;
+    }
+    .quote-title {
+      position: relative;
+      z-index: 1;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+    header h1 {
+      font-size: 6rem;
+      font-weight: 900;
+    }
+    .barcode svg rect {
+      fill: black;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Landing Section -->
+  <header class="container-fluid text-center py-5 position-relative">
+    <div class="row align-items-center">
+      <div class="col-md-6 text-start">
+        <h1>"VALERIE"</h1>
+        <p class="lead util-text">IT Technician / Netrunner / Creative</p>
+      </div>
+      <div class="col-md-6 d-none d-md-block"></div>
+    </div>
+    <p class="util-text position-absolute top-0 end-0 m-2">"LANDING SECTION 00"</p>
+    <p class="util-text position-absolute bottom-0 end-0 m-2">+</p>
+  </header>
+
+  <div class="hazard"></div>
+
+  <!-- About Section -->
+  <section id="about" class="container py-5 position-relative">
+    <span class="bg-text">"ABOUT"</span>
+    <p class="util-text position-absolute top-0 start-0 m-2">"SECTION 01"</p>
+    <div class="row">
+      <div class="col-md-6 position-relative">
+        <div class="color-block"></div>
+        <h2 class="quote-title">"About Me"</h2>
+        <p>
+          Creative technologist with a background in IT and a love for blending structure with chaos.
+          This website is more than a resume — it’s a canvas.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <p>
+          Skilled across multiple domains of computer science, balancing aesthetics with functionality.
+          Inspired by Virgil Abloh’s philosophy of design and disruption.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <div class="hazard"></div>
+
+  <!-- Projects Section -->
+  <section id="projects" class="container py-5 position-relative">
+    <span class="bg-text">"WORK"</span>
+    <p class="util-text position-absolute top-0 end-0 m-2">"SECTION 02"</p>
+    <div class="row g-5">
+      <div class="col-md-4">
+        <div class="p-3 border position-relative">
+          <p class="util-text">"PROJECT 01"</p>
+          <h3>Experimental Site</h3>
+          <p>HTML + CSS build focused on Off-White inspired layout.</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="p-3 border position-relative">
+          <p class="util-text">"PROJECT 02"</p>
+          <h3>Data Visualization</h3>
+          <p>Interactive visualizations with Bootstrap aesthetics.</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="p-3 border position-relative">
+          <p class="util-text">"PROJECT 03"</p>
+          <h3>Experimental Tool</h3>
+          <p>Concept tool bridging code and art.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="hazard"></div>
+
+  <!-- Footer -->
+  <footer class="container text-center py-5 position-relative">
+    <p class="util-text">"THIS IS A WEBSITE"</p>
+    <p class="util-text">"DESIGNED IN 2025"</p>
+    <div class="barcode d-flex justify-content-center mt-3">
+      <svg xmlns="http://www.w3.org/2000/svg" width="120" height="50">
+        <rect width="2" height="50" x="2"/>
+        <rect width="2" height="50" x="8"/>
+        <rect width="4" height="50" x="14"/>
+        <rect width="2" height="50" x="22"/>
+        <rect width="3" height="50" x="28"/>
+        <rect width="2" height="50" x="34"/>
+      </svg>
+    </div>
+  </footer>
+
+</body>
+</html>
