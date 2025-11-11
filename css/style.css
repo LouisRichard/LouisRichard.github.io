@@ -3,6 +3,7 @@ body {
       background: #fff;
       color: #000;
       overflow-x: hidden;
+      padding-top: 50px; /* offset content below fixed navbar */
     }
 
     h1, h2, h3 {
@@ -88,4 +89,31 @@ body {
     display: inline-block;
     margin: 0.5rem;
     }
+
+    .navbar {
+  height: 50px;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  z-index: 1000;
+}
+
+.nav-link {
+  color: black;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.nav-link:hover {
+  color: #39ff14; /* that neon green accent */
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: black;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: #39ff14; /* Neon accent hover */
+}
 
