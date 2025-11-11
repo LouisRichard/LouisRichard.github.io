@@ -117,3 +117,59 @@ body {
   color: #39ff14; /* Neon accent hover */
 }
 
+.project-box {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.project-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+.project-link:hover h3,
+.project-link:hover .arrow svg line,
+.project-link:hover .arrow svg polygon {
+  color: #000;
+  stroke: #000;
+  fill: #000;
+}
+
+.project-link {
+  display: block;
+}
+
+.project-detail {
+      position: relative;
+      padding: 8rem 0 4rem;
+    }
+
+    .section-id {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      font-size: 0.8rem;
+      color: rgba(0,0,0,0.4);
+    }
+
+    .project-content {
+      position: relative;
+      z-index: 2;
+    }
+
+    .project-divider {
+      height: 2px;
+      width: 60px;
+      background: black;
+      margin: 1.5rem auto;
+    }
+
+    .resource-links a {
+      text-decoration: none;
+      color: black;
+      transition: opacity 0.3s ease;
+    }
+
+    .resource-links a:hover {
+      opacity: 0.6;
+    }
