@@ -36,7 +36,7 @@ ob_start();
         <li><a href="#" target="_blank">NOT AVAILABLE</a></li>
       </ul>
 
-      <a href="index.html#projects" class="btn btn-outline-dark mt-4">← Back to Projects</a>
+      <a href="index.html#experience" class="btn btn-outline-dark mt-4">← Back to Experience</a>
     </div>
 <?php
 $content = ob_get_clean();

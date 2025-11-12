@@ -39,7 +39,7 @@ ob_start();
         <li><a href="https://bitbucket.org/NGY_CPNV/awsscheduler/src/master/" target="_blank">PROJECT SOURCE</a></li>
       </ul>
 
-      <a href="index.html#projects" class="btn btn-outline-dark mt-4">← Back to Projects</a>
+      <a href="index.html#experience" class="btn btn-outline-dark mt-4">← Back to Experience</a>
     </div>
 <?php
 $content = ob_get_clean();
