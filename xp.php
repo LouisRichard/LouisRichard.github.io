@@ -10,6 +10,7 @@
  * Source       :   https://github.com/LouisRichard/louisrichard.github.io
  */
 
+$title = 'EXPERIENCE';
 if (isset($_GET['xp'])) {
     $xp = $_GET['xp'];
 
