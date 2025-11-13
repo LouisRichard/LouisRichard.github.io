@@ -29,9 +29,9 @@ if (isset($_GET['xp'])) {
 
         //default
         default:
-            header("index.html");
+            header("location: index.html");
             break;
     }
 } else {
-    header("index.html");
+    header("location: index.html");
 }
