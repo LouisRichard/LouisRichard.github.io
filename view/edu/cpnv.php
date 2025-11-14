@@ -34,7 +34,7 @@ ob_start();
         Mac OSX 10.14 Mojave<br/>
         Linux > Debian 9/10/11, Ubuntu<br/>
         Networking > Cisco CCNA<br/>
-        Services DHCP, DNS<br/>
+        Services > DHCP, DNS<br/>
         Active Directory<br/>
         Hardware diagnostic<br/>
       </p>
