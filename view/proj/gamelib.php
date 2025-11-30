@@ -1,11 +1,11 @@
 <?php
 ob_start();
 ?>
-<span class="bg-text">"CPNV"</span>
+<span class="bg-text">"GAME LIBRARY"</span>
     <p class="util-text section-id">"SECTION 04-A"</p>
 
     <div class="project-content">
-      <h2 class="quote-title">CPNV</h2>
+      <h2 class="quote-title">GAME LIBRARY</h2>
       <div class="project-divider"></div>
       <p class="util-text">
         <span class="bracket-text">[Category]</span> DEVELOPPEMENT<br>
