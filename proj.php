@@ -19,19 +19,19 @@ if (isset($_GET['proj'])) {
             require_once "view/proj/gamelib.php";
             break;
         case "r486":
-            require_once "view/xp/r486.php";
+            require_once "view/proj/r486.php";
             break;
         case "awsscheduler":
-            require_once "view/xp/awsscheduler.php";
+            require_once "view/proj/awsscheduler.php";
             break;
         case "laptoprep":
-            require_once "view/xp/laptoprep.php";
+            require_once "view/proj/laptoprep.php";
             break;
         case "winsrv":
-            require_once "view/xp/winsrv.php";
+            require_once "view/ptoj/winsrv.php";
             break;
         case "hackpro":
-            require_once "view/xp/hackpro.php";
+            require_once "view/proj/hackpro.php";
             break;
 
         //default
