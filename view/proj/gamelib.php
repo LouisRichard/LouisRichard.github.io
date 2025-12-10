@@ -31,6 +31,7 @@ ob_start();
         SCRUM<br/>
         Source control (git)<br/>
         Doxygen<br/>
+        Test driven developpement<br/>
       </p>
 
       <h4 class="mt-5 bracket-text">[RESSOURCES]</h4>
