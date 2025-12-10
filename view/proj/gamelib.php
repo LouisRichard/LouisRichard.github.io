@@ -2,7 +2,7 @@
 ob_start();
 ?>
 <span class="bg-text">"GAME LIBRARY"</span>
-    <p class="util-text section-id">"SECTION 04-A"</p>
+    <p class="util-text section-id">"SECTION 04-C"</p>
 
     <div class="project-content">
       <h2 class="quote-title">GAME LIBRARY</h2>
