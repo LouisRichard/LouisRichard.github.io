@@ -1,7 +1,7 @@
 <?php
 ob_start();
 ?>
-<span class="bg-text">"RICHARD486"</span>
+<span class="bg-text">"LAPTOP REPAIRS"</span>
     <p class="util-text section-id">"SECTION 04-D"</p>
 
     <div class="project-content">
