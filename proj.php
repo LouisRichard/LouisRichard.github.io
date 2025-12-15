@@ -28,7 +28,7 @@ if (isset($_GET['proj'])) {
             require_once "view/proj/laptoprep.php";
             break;
         case "winsrv":
-            require_once "view/ptoj/winsrv.php";
+            require_once "view/proj/winsrv.php";
             break;
         case "hackpro":
             require_once "view/proj/hackpro.php";
