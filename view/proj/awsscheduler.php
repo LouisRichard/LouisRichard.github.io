@@ -33,7 +33,7 @@ ob_start();
 
       <h4 class="mt-5 bracket-text">[RESSOURCES]</h4>
       <ul class="util-text list-unstyled resource-links">
-        <li><a href="https://github.com/louisrichard/louisrichard.github.io" target="_blank">PROJECT SOURCE</a></li>
+        <li><a href="https://bitbucket.org/NGY_CPNV/awsscheduler/src/master/" target="_blank">PROJECT SOURCE</a></li>
       </ul>
 
       <a href="index.html#projects" class="btn btn-outline-dark mt-4">← Back to Projects</a>
